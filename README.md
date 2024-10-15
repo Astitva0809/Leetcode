@@ -17,6 +17,7 @@ Leetcode solutions
 | [0075-sort-colors](https://github.com/Astitva0809/Leetcode/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/Astitva0809/Leetcode/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Astitva0809/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0118-pascals-triangle](https://github.com/Astitva0809/Leetcode/tree/master/0118-pascals-triangle) |
 ## Backtracking
 |  |
 | ------- |
@@ -85,6 +86,7 @@ Leetcode solutions
 | ------- |
 | [0053-maximum-subarray](https://github.com/Astitva0809/Leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Astitva0809/Leetcode/tree/master/0055-jump-game) |
+| [0118-pascals-triangle](https://github.com/Astitva0809/Leetcode/tree/master/0118-pascals-triangle) |
 ## Simulation
 |  |
 | ------- |
