@@ -9,6 +9,7 @@ Leetcode solutions
 | [0046-permutations](https://github.com/Astitva0809/Leetcode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Astitva0809/Leetcode/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/Astitva0809/Leetcode/tree/master/0048-rotate-image) |
+| [0049-group-anagrams](https://github.com/Astitva0809/Leetcode/tree/master/0049-group-anagrams) |
 | [0078-subsets](https://github.com/Astitva0809/Leetcode/tree/master/0078-subsets) |
 ## Backtracking
 |  |
@@ -27,6 +28,7 @@ Leetcode solutions
 ## String
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Astitva0809/Leetcode/tree/master/0049-group-anagrams) |
 | [3195-separate-black-and-white-balls](https://github.com/Astitva0809/Leetcode/tree/master/3195-separate-black-and-white-balls) |
 ## Greedy
 |  |
@@ -49,4 +51,12 @@ Leetcode solutions
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Astitva0809/Leetcode/tree/master/0048-rotate-image) |
+## Hash Table
+|  |
+| ------- |
+| [0049-group-anagrams](https://github.com/Astitva0809/Leetcode/tree/master/0049-group-anagrams) |
+## Sorting
+|  |
+| ------- |
+| [0049-group-anagrams](https://github.com/Astitva0809/Leetcode/tree/master/0049-group-anagrams) |
 <!---LeetCode Topics End-->
