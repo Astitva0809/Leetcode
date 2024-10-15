@@ -14,6 +14,7 @@ Leetcode solutions
 | [0053-maximum-subarray](https://github.com/Astitva0809/Leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Astitva0809/Leetcode/tree/master/0055-jump-game) |
 | [0059-spiral-matrix-ii](https://github.com/Astitva0809/Leetcode/tree/master/0059-spiral-matrix-ii) |
+| [0075-sort-colors](https://github.com/Astitva0809/Leetcode/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/Astitva0809/Leetcode/tree/master/0078-subsets) |
 ## Backtracking
 |  |
@@ -29,6 +30,7 @@ Leetcode solutions
 ## Two Pointers
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Astitva0809/Leetcode/tree/master/0075-sort-colors) |
 | [3195-separate-black-and-white-balls](https://github.com/Astitva0809/Leetcode/tree/master/3195-separate-black-and-white-balls) |
 ## String
 |  |
@@ -68,6 +70,7 @@ Leetcode solutions
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/Astitva0809/Leetcode/tree/master/0049-group-anagrams) |
+| [0075-sort-colors](https://github.com/Astitva0809/Leetcode/tree/master/0075-sort-colors) |
 ## Divide and Conquer
 |  |
 | ------- |
