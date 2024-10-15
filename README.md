@@ -8,6 +8,7 @@ Leetcode solutions
 | ------- |
 | [0046-permutations](https://github.com/Astitva0809/Leetcode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Astitva0809/Leetcode/tree/master/0047-permutations-ii) |
+| [0048-rotate-image](https://github.com/Astitva0809/Leetcode/tree/master/0048-rotate-image) |
 | [0078-subsets](https://github.com/Astitva0809/Leetcode/tree/master/0078-subsets) |
 ## Backtracking
 |  |
@@ -39,8 +40,13 @@ Leetcode solutions
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Astitva0809/Leetcode/tree/master/0002-add-two-numbers) |
+| [0048-rotate-image](https://github.com/Astitva0809/Leetcode/tree/master/0048-rotate-image) |
 ## Recursion
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Astitva0809/Leetcode/tree/master/0002-add-two-numbers) |
+## Matrix
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/Astitva0809/Leetcode/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
