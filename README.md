@@ -32,6 +32,7 @@ Leetcode solutions
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Astitva0809/Leetcode/tree/master/0075-sort-colors) |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Astitva0809/Leetcode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [3195-separate-black-and-white-balls](https://github.com/Astitva0809/Leetcode/tree/master/3195-separate-black-and-white-balls) |
 ## String
 |  |
@@ -47,6 +48,7 @@ Leetcode solutions
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Astitva0809/Leetcode/tree/master/0002-add-two-numbers) |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Astitva0809/Leetcode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 ## Math
 |  |
 | ------- |
