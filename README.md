@@ -43,10 +43,12 @@ Leetcode solutions
 | ------- |
 | [0002-add-two-numbers](https://github.com/Astitva0809/Leetcode/tree/master/0002-add-two-numbers) |
 | [0048-rotate-image](https://github.com/Astitva0809/Leetcode/tree/master/0048-rotate-image) |
+| [0050-powx-n](https://github.com/Astitva0809/Leetcode/tree/master/0050-powx-n) |
 ## Recursion
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Astitva0809/Leetcode/tree/master/0002-add-two-numbers) |
+| [0050-powx-n](https://github.com/Astitva0809/Leetcode/tree/master/0050-powx-n) |
 ## Matrix
 |  |
 | ------- |
