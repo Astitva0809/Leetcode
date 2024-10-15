@@ -7,11 +7,13 @@ Leetcode solutions
 |  |
 | ------- |
 | [0046-permutations](https://github.com/Astitva0809/Leetcode/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/Astitva0809/Leetcode/tree/master/0047-permutations-ii) |
 | [0078-subsets](https://github.com/Astitva0809/Leetcode/tree/master/0078-subsets) |
 ## Backtracking
 |  |
 | ------- |
 | [0046-permutations](https://github.com/Astitva0809/Leetcode/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/Astitva0809/Leetcode/tree/master/0047-permutations-ii) |
 | [0078-subsets](https://github.com/Astitva0809/Leetcode/tree/master/0078-subsets) |
 ## Bit Manipulation
 |  |
