@@ -6,10 +6,12 @@ Leetcode solutions
 ## Array
 |  |
 | ------- |
+| [0046-permutations](https://github.com/Astitva0809/Leetcode/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/Astitva0809/Leetcode/tree/master/0078-subsets) |
 ## Backtracking
 |  |
 | ------- |
+| [0046-permutations](https://github.com/Astitva0809/Leetcode/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/Astitva0809/Leetcode/tree/master/0078-subsets) |
 ## Bit Manipulation
 |  |
