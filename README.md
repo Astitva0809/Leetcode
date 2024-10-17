@@ -18,6 +18,7 @@ Leetcode solutions
 | [0078-subsets](https://github.com/Astitva0809/Leetcode/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Astitva0809/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0118-pascals-triangle](https://github.com/Astitva0809/Leetcode/tree/master/0118-pascals-triangle) |
+| [0324-wiggle-sort-ii](https://github.com/Astitva0809/Leetcode/tree/master/0324-wiggle-sort-ii) |
 ## Backtracking
 |  |
 | ------- |
@@ -46,6 +47,7 @@ Leetcode solutions
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/Astitva0809/Leetcode/tree/master/0055-jump-game) |
+| [0324-wiggle-sort-ii](https://github.com/Astitva0809/Leetcode/tree/master/0324-wiggle-sort-ii) |
 | [1304-longest-happy-string](https://github.com/Astitva0809/Leetcode/tree/master/1304-longest-happy-string) |
 | [3195-separate-black-and-white-balls](https://github.com/Astitva0809/Leetcode/tree/master/3195-separate-black-and-white-balls) |
 ## Linked List
@@ -80,10 +82,12 @@ Leetcode solutions
 | ------- |
 | [0049-group-anagrams](https://github.com/Astitva0809/Leetcode/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/Astitva0809/Leetcode/tree/master/0075-sort-colors) |
+| [0324-wiggle-sort-ii](https://github.com/Astitva0809/Leetcode/tree/master/0324-wiggle-sort-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Astitva0809/Leetcode/tree/master/0053-maximum-subarray) |
+| [0324-wiggle-sort-ii](https://github.com/Astitva0809/Leetcode/tree/master/0324-wiggle-sort-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -128,4 +132,8 @@ Leetcode solutions
 |  |
 | ------- |
 | [1304-longest-happy-string](https://github.com/Astitva0809/Leetcode/tree/master/1304-longest-happy-string) |
+## Quickselect
+|  |
+| ------- |
+| [0324-wiggle-sort-ii](https://github.com/Astitva0809/Leetcode/tree/master/0324-wiggle-sort-ii) |
 <!---LeetCode Topics End-->
