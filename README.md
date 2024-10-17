@@ -31,6 +31,7 @@ Leetcode solutions
 |  |
 | ------- |
 | [0078-subsets](https://github.com/Astitva0809/Leetcode/tree/master/0078-subsets) |
+| [0397-integer-replacement](https://github.com/Astitva0809/Leetcode/tree/master/0397-integer-replacement) |
 ## Two Pointers
 |  |
 | ------- |
@@ -48,6 +49,7 @@ Leetcode solutions
 | ------- |
 | [0055-jump-game](https://github.com/Astitva0809/Leetcode/tree/master/0055-jump-game) |
 | [0324-wiggle-sort-ii](https://github.com/Astitva0809/Leetcode/tree/master/0324-wiggle-sort-ii) |
+| [0397-integer-replacement](https://github.com/Astitva0809/Leetcode/tree/master/0397-integer-replacement) |
 | [1304-longest-happy-string](https://github.com/Astitva0809/Leetcode/tree/master/1304-longest-happy-string) |
 | [3195-separate-black-and-white-balls](https://github.com/Astitva0809/Leetcode/tree/master/3195-separate-black-and-white-balls) |
 ## Linked List
@@ -94,6 +96,7 @@ Leetcode solutions
 | [0053-maximum-subarray](https://github.com/Astitva0809/Leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Astitva0809/Leetcode/tree/master/0055-jump-game) |
 | [0118-pascals-triangle](https://github.com/Astitva0809/Leetcode/tree/master/0118-pascals-triangle) |
+| [0397-integer-replacement](https://github.com/Astitva0809/Leetcode/tree/master/0397-integer-replacement) |
 ## Simulation
 |  |
 | ------- |
@@ -136,4 +139,8 @@ Leetcode solutions
 |  |
 | ------- |
 | [0324-wiggle-sort-ii](https://github.com/Astitva0809/Leetcode/tree/master/0324-wiggle-sort-ii) |
+## Memoization
+|  |
+| ------- |
+| [0397-integer-replacement](https://github.com/Astitva0809/Leetcode/tree/master/0397-integer-replacement) |
 <!---LeetCode Topics End-->
