@@ -50,6 +50,7 @@ Leetcode solutions
 | [0055-jump-game](https://github.com/Astitva0809/Leetcode/tree/master/0055-jump-game) |
 | [0324-wiggle-sort-ii](https://github.com/Astitva0809/Leetcode/tree/master/0324-wiggle-sort-ii) |
 | [0397-integer-replacement](https://github.com/Astitva0809/Leetcode/tree/master/0397-integer-replacement) |
+| [0670-maximum-swap](https://github.com/Astitva0809/Leetcode/tree/master/0670-maximum-swap) |
 | [1304-longest-happy-string](https://github.com/Astitva0809/Leetcode/tree/master/1304-longest-happy-string) |
 | [3195-separate-black-and-white-balls](https://github.com/Astitva0809/Leetcode/tree/master/3195-separate-black-and-white-balls) |
 ## Linked List
@@ -65,6 +66,7 @@ Leetcode solutions
 | [0002-add-two-numbers](https://github.com/Astitva0809/Leetcode/tree/master/0002-add-two-numbers) |
 | [0048-rotate-image](https://github.com/Astitva0809/Leetcode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Astitva0809/Leetcode/tree/master/0050-powx-n) |
+| [0670-maximum-swap](https://github.com/Astitva0809/Leetcode/tree/master/0670-maximum-swap) |
 ## Recursion
 |  |
 | ------- |
