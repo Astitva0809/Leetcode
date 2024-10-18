@@ -19,6 +19,7 @@ Leetcode solutions
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Astitva0809/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0118-pascals-triangle](https://github.com/Astitva0809/Leetcode/tree/master/0118-pascals-triangle) |
 | [0324-wiggle-sort-ii](https://github.com/Astitva0809/Leetcode/tree/master/0324-wiggle-sort-ii) |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Astitva0809/Leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## Backtracking
 |  |
 | ------- |
@@ -27,11 +28,13 @@ Leetcode solutions
 | [0051-n-queens](https://github.com/Astitva0809/Leetcode/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/Astitva0809/Leetcode/tree/master/0078-subsets) |
 | [0113-path-sum-ii](https://github.com/Astitva0809/Leetcode/tree/master/0113-path-sum-ii) |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Astitva0809/Leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0078-subsets](https://github.com/Astitva0809/Leetcode/tree/master/0078-subsets) |
 | [0397-integer-replacement](https://github.com/Astitva0809/Leetcode/tree/master/0397-integer-replacement) |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Astitva0809/Leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## Two Pointers
 |  |
 | ------- |
@@ -145,4 +148,8 @@ Leetcode solutions
 |  |
 | ------- |
 | [0397-integer-replacement](https://github.com/Astitva0809/Leetcode/tree/master/0397-integer-replacement) |
+## Enumeration
+|  |
+| ------- |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Astitva0809/Leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 <!---LeetCode Topics End-->
