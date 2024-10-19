@@ -6,6 +6,7 @@ Leetcode solutions
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Astitva0809/Leetcode/tree/master/0011-container-with-most-water) |
 | [0046-permutations](https://github.com/Astitva0809/Leetcode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Astitva0809/Leetcode/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/Astitva0809/Leetcode/tree/master/0048-rotate-image) |
@@ -38,6 +39,7 @@ Leetcode solutions
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Astitva0809/Leetcode/tree/master/0011-container-with-most-water) |
 | [0075-sort-colors](https://github.com/Astitva0809/Leetcode/tree/master/0075-sort-colors) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Astitva0809/Leetcode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [3195-separate-black-and-white-balls](https://github.com/Astitva0809/Leetcode/tree/master/3195-separate-black-and-white-balls) |
@@ -50,6 +52,7 @@ Leetcode solutions
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Astitva0809/Leetcode/tree/master/0011-container-with-most-water) |
 | [0055-jump-game](https://github.com/Astitva0809/Leetcode/tree/master/0055-jump-game) |
 | [0324-wiggle-sort-ii](https://github.com/Astitva0809/Leetcode/tree/master/0324-wiggle-sort-ii) |
 | [0397-integer-replacement](https://github.com/Astitva0809/Leetcode/tree/master/0397-integer-replacement) |
