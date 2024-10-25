@@ -155,6 +155,7 @@ Leetcode solutions
 | [0098-validate-binary-search-tree](https://github.com/Astitva0809/Leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0113-path-sum-ii](https://github.com/Astitva0809/Leetcode/tree/master/0113-path-sum-ii) |
 | [0404-sum-of-left-leaves](https://github.com/Astitva0809/Leetcode/tree/master/0404-sum-of-left-leaves) |
+| [0450-delete-node-in-a-bst](https://github.com/Astitva0809/Leetcode/tree/master/0450-delete-node-in-a-bst) |
 | [0988-flip-equivalent-binary-trees](https://github.com/Astitva0809/Leetcode/tree/master/0988-flip-equivalent-binary-trees) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/Astitva0809/Leetcode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/Astitva0809/Leetcode/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
@@ -178,6 +179,7 @@ Leetcode solutions
 | [0098-validate-binary-search-tree](https://github.com/Astitva0809/Leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0113-path-sum-ii](https://github.com/Astitva0809/Leetcode/tree/master/0113-path-sum-ii) |
 | [0404-sum-of-left-leaves](https://github.com/Astitva0809/Leetcode/tree/master/0404-sum-of-left-leaves) |
+| [0450-delete-node-in-a-bst](https://github.com/Astitva0809/Leetcode/tree/master/0450-delete-node-in-a-bst) |
 | [0988-flip-equivalent-binary-trees](https://github.com/Astitva0809/Leetcode/tree/master/0988-flip-equivalent-binary-trees) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/Astitva0809/Leetcode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/Astitva0809/Leetcode/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
@@ -186,6 +188,7 @@ Leetcode solutions
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Astitva0809/Leetcode/tree/master/0098-validate-binary-search-tree) |
+| [0450-delete-node-in-a-bst](https://github.com/Astitva0809/Leetcode/tree/master/0450-delete-node-in-a-bst) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
