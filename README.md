@@ -20,6 +20,7 @@ Leetcode solutions
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Astitva0809/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0118-pascals-triangle](https://github.com/Astitva0809/Leetcode/tree/master/0118-pascals-triangle) |
 | [0324-wiggle-sort-ii](https://github.com/Astitva0809/Leetcode/tree/master/0324-wiggle-sort-ii) |
+| [0416-partition-equal-subset-sum](https://github.com/Astitva0809/Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Astitva0809/Leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1983-maximum-population-year](https://github.com/Astitva0809/Leetcode/tree/master/1983-maximum-population-year) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Astitva0809/Leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
@@ -127,6 +128,7 @@ Leetcode solutions
 | [0055-jump-game](https://github.com/Astitva0809/Leetcode/tree/master/0055-jump-game) |
 | [0118-pascals-triangle](https://github.com/Astitva0809/Leetcode/tree/master/0118-pascals-triangle) |
 | [0397-integer-replacement](https://github.com/Astitva0809/Leetcode/tree/master/0397-integer-replacement) |
+| [0416-partition-equal-subset-sum](https://github.com/Astitva0809/Leetcode/tree/master/0416-partition-equal-subset-sum) |
 ## Simulation
 |  |
 | ------- |
