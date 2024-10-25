@@ -21,6 +21,7 @@ Leetcode solutions
 | [0118-pascals-triangle](https://github.com/Astitva0809/Leetcode/tree/master/0118-pascals-triangle) |
 | [0324-wiggle-sort-ii](https://github.com/Astitva0809/Leetcode/tree/master/0324-wiggle-sort-ii) |
 | [0416-partition-equal-subset-sum](https://github.com/Astitva0809/Leetcode/tree/master/0416-partition-equal-subset-sum) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/Astitva0809/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Astitva0809/Leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1983-maximum-population-year](https://github.com/Astitva0809/Leetcode/tree/master/1983-maximum-population-year) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Astitva0809/Leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
@@ -108,6 +109,7 @@ Leetcode solutions
 | [0049-group-anagrams](https://github.com/Astitva0809/Leetcode/tree/master/0049-group-anagrams) |
 | [0387-first-unique-character-in-a-string](https://github.com/Astitva0809/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/Astitva0809/Leetcode/tree/master/0409-longest-palindrome) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/Astitva0809/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/Astitva0809/Leetcode/tree/master/2677-cousins-in-binary-tree-ii) |
 ## Sorting
 |  |
