@@ -49,6 +49,7 @@ Leetcode solutions
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Astitva0809/Leetcode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0344-reverse-string](https://github.com/Astitva0809/Leetcode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Astitva0809/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
+| [0443-string-compression](https://github.com/Astitva0809/Leetcode/tree/master/0443-string-compression) |
 | [3195-separate-black-and-white-balls](https://github.com/Astitva0809/Leetcode/tree/master/3195-separate-black-and-white-balls) |
 ## String
 |  |
@@ -59,6 +60,7 @@ Leetcode solutions
 | [0387-first-unique-character-in-a-string](https://github.com/Astitva0809/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0402-remove-k-digits](https://github.com/Astitva0809/Leetcode/tree/master/0402-remove-k-digits) |
 | [0409-longest-palindrome](https://github.com/Astitva0809/Leetcode/tree/master/0409-longest-palindrome) |
+| [0443-string-compression](https://github.com/Astitva0809/Leetcode/tree/master/0443-string-compression) |
 | [1197-parsing-a-boolean-expression](https://github.com/Astitva0809/Leetcode/tree/master/1197-parsing-a-boolean-expression) |
 | [1304-longest-happy-string](https://github.com/Astitva0809/Leetcode/tree/master/1304-longest-happy-string) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Astitva0809/Leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
