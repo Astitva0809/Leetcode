@@ -30,6 +30,7 @@ Leetcode solutions
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Astitva0809/Leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1983-maximum-population-year](https://github.com/Astitva0809/Leetcode/tree/master/1983-maximum-population-year) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Astitva0809/Leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+| [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/Astitva0809/Leetcode/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 ## Backtracking
 |  |
 | ------- |
@@ -181,6 +182,7 @@ Leetcode solutions
 | [0513-find-bottom-left-tree-value](https://github.com/Astitva0809/Leetcode/tree/master/0513-find-bottom-left-tree-value) |
 | [0988-flip-equivalent-binary-trees](https://github.com/Astitva0809/Leetcode/tree/master/0988-flip-equivalent-binary-trees) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/Astitva0809/Leetcode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
+| [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/Astitva0809/Leetcode/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/Astitva0809/Leetcode/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/Astitva0809/Leetcode/tree/master/2677-cousins-in-binary-tree-ii) |
 ## Depth-First Search
@@ -196,6 +198,7 @@ Leetcode solutions
 | [0988-flip-equivalent-binary-trees](https://github.com/Astitva0809/Leetcode/tree/master/0988-flip-equivalent-binary-trees) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/Astitva0809/Leetcode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Astitva0809/Leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/Astitva0809/Leetcode/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/Astitva0809/Leetcode/tree/master/2677-cousins-in-binary-tree-ii) |
 ## Binary Tree
 |  |
@@ -208,6 +211,7 @@ Leetcode solutions
 | [0513-find-bottom-left-tree-value](https://github.com/Astitva0809/Leetcode/tree/master/0513-find-bottom-left-tree-value) |
 | [0988-flip-equivalent-binary-trees](https://github.com/Astitva0809/Leetcode/tree/master/0988-flip-equivalent-binary-trees) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/Astitva0809/Leetcode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
+| [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/Astitva0809/Leetcode/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/Astitva0809/Leetcode/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/Astitva0809/Leetcode/tree/master/2677-cousins-in-binary-tree-ii) |
 ## Binary Search Tree
@@ -250,6 +254,7 @@ Leetcode solutions
 | [0513-find-bottom-left-tree-value](https://github.com/Astitva0809/Leetcode/tree/master/0513-find-bottom-left-tree-value) |
 | [0514-freedom-trail](https://github.com/Astitva0809/Leetcode/tree/master/0514-freedom-trail) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/Astitva0809/Leetcode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
+| [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/Astitva0809/Leetcode/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/Astitva0809/Leetcode/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/Astitva0809/Leetcode/tree/master/2677-cousins-in-binary-tree-ii) |
 ## Trie
