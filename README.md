@@ -28,6 +28,7 @@ Leetcode solutions
 | [0498-diagonal-traverse](https://github.com/Astitva0809/Leetcode/tree/master/0498-diagonal-traverse) |
 | [0525-contiguous-array](https://github.com/Astitva0809/Leetcode/tree/master/0525-contiguous-array) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Astitva0809/Leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [1603-running-sum-of-1d-array](https://github.com/Astitva0809/Leetcode/tree/master/1603-running-sum-of-1d-array) |
 | [1983-maximum-population-year](https://github.com/Astitva0809/Leetcode/tree/master/1983-maximum-population-year) |
 | [2020-remove-one-element-to-make-the-array-strictly-increasing](https://github.com/Astitva0809/Leetcode/tree/master/2020-remove-one-element-to-make-the-array-strictly-increasing) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Astitva0809/Leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
@@ -247,6 +248,7 @@ Leetcode solutions
 |  |
 | ------- |
 | [0525-contiguous-array](https://github.com/Astitva0809/Leetcode/tree/master/0525-contiguous-array) |
+| [1603-running-sum-of-1d-array](https://github.com/Astitva0809/Leetcode/tree/master/1603-running-sum-of-1d-array) |
 | [1983-maximum-population-year](https://github.com/Astitva0809/Leetcode/tree/master/1983-maximum-population-year) |
 ## Breadth-First Search
 |  |
