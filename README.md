@@ -28,6 +28,7 @@ Leetcode solutions
 | [0498-diagonal-traverse](https://github.com/Astitva0809/Leetcode/tree/master/0498-diagonal-traverse) |
 | [0525-contiguous-array](https://github.com/Astitva0809/Leetcode/tree/master/0525-contiguous-array) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Astitva0809/Leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [1503-reducing-dishes](https://github.com/Astitva0809/Leetcode/tree/master/1503-reducing-dishes) |
 | [1603-running-sum-of-1d-array](https://github.com/Astitva0809/Leetcode/tree/master/1603-running-sum-of-1d-array) |
 | [1983-maximum-population-year](https://github.com/Astitva0809/Leetcode/tree/master/1983-maximum-population-year) |
 | [2020-remove-one-element-to-make-the-array-strictly-increasing](https://github.com/Astitva0809/Leetcode/tree/master/2020-remove-one-element-to-make-the-array-strictly-increasing) |
@@ -92,6 +93,7 @@ Leetcode solutions
 | [0455-assign-cookies](https://github.com/Astitva0809/Leetcode/tree/master/0455-assign-cookies) |
 | [0670-maximum-swap](https://github.com/Astitva0809/Leetcode/tree/master/0670-maximum-swap) |
 | [1304-longest-happy-string](https://github.com/Astitva0809/Leetcode/tree/master/1304-longest-happy-string) |
+| [1503-reducing-dishes](https://github.com/Astitva0809/Leetcode/tree/master/1503-reducing-dishes) |
 | [3195-separate-black-and-white-balls](https://github.com/Astitva0809/Leetcode/tree/master/3195-separate-black-and-white-balls) |
 ## Linked List
 |  |
@@ -141,6 +143,7 @@ Leetcode solutions
 | [0324-wiggle-sort-ii](https://github.com/Astitva0809/Leetcode/tree/master/0324-wiggle-sort-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/Astitva0809/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/Astitva0809/Leetcode/tree/master/0455-assign-cookies) |
+| [1503-reducing-dishes](https://github.com/Astitva0809/Leetcode/tree/master/1503-reducing-dishes) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/Astitva0809/Leetcode/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 ## Divide and Conquer
 |  |
@@ -157,6 +160,7 @@ Leetcode solutions
 | [0416-partition-equal-subset-sum](https://github.com/Astitva0809/Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/Astitva0809/Leetcode/tree/master/0494-target-sum) |
 | [0514-freedom-trail](https://github.com/Astitva0809/Leetcode/tree/master/0514-freedom-trail) |
+| [1503-reducing-dishes](https://github.com/Astitva0809/Leetcode/tree/master/1503-reducing-dishes) |
 ## Simulation
 |  |
 | ------- |
