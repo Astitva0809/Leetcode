@@ -31,6 +31,7 @@ Leetcode solutions
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Astitva0809/Leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1503-reducing-dishes](https://github.com/Astitva0809/Leetcode/tree/master/1503-reducing-dishes) |
 | [1603-running-sum-of-1d-array](https://github.com/Astitva0809/Leetcode/tree/master/1603-running-sum-of-1d-array) |
+| [1700-minimum-time-to-make-rope-colorful](https://github.com/Astitva0809/Leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1983-maximum-population-year](https://github.com/Astitva0809/Leetcode/tree/master/1983-maximum-population-year) |
 | [2020-remove-one-element-to-make-the-array-strictly-increasing](https://github.com/Astitva0809/Leetcode/tree/master/2020-remove-one-element-to-make-the-array-strictly-increasing) |
 | [2107-find-unique-binary-string](https://github.com/Astitva0809/Leetcode/tree/master/2107-find-unique-binary-string) |
@@ -88,6 +89,7 @@ Leetcode solutions
 | [1304-longest-happy-string](https://github.com/Astitva0809/Leetcode/tree/master/1304-longest-happy-string) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Astitva0809/Leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/Astitva0809/Leetcode/tree/master/1667-find-kth-bit-in-nth-binary-string) |
+| [1700-minimum-time-to-make-rope-colorful](https://github.com/Astitva0809/Leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [2107-find-unique-binary-string](https://github.com/Astitva0809/Leetcode/tree/master/2107-find-unique-binary-string) |
 | [2576-minimum-penalty-for-a-shop](https://github.com/Astitva0809/Leetcode/tree/master/2576-minimum-penalty-for-a-shop) |
 | [3195-separate-black-and-white-balls](https://github.com/Astitva0809/Leetcode/tree/master/3195-separate-black-and-white-balls) |
@@ -106,6 +108,7 @@ Leetcode solutions
 | [1252-break-a-palindrome](https://github.com/Astitva0809/Leetcode/tree/master/1252-break-a-palindrome) |
 | [1304-longest-happy-string](https://github.com/Astitva0809/Leetcode/tree/master/1304-longest-happy-string) |
 | [1503-reducing-dishes](https://github.com/Astitva0809/Leetcode/tree/master/1503-reducing-dishes) |
+| [1700-minimum-time-to-make-rope-colorful](https://github.com/Astitva0809/Leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [3195-separate-black-and-white-balls](https://github.com/Astitva0809/Leetcode/tree/master/3195-separate-black-and-white-balls) |
 ## Linked List
 |  |
@@ -180,6 +183,7 @@ Leetcode solutions
 | [0514-freedom-trail](https://github.com/Astitva0809/Leetcode/tree/master/0514-freedom-trail) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Astitva0809/Leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1503-reducing-dishes](https://github.com/Astitva0809/Leetcode/tree/master/1503-reducing-dishes) |
+| [1700-minimum-time-to-make-rope-colorful](https://github.com/Astitva0809/Leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [2586-longest-square-streak-in-an-array](https://github.com/Astitva0809/Leetcode/tree/master/2586-longest-square-streak-in-an-array) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/Astitva0809/Leetcode/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 ## Simulation
