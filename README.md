@@ -97,6 +97,7 @@ Leetcode solutions
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Astitva0809/Leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/Astitva0809/Leetcode/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Astitva0809/Leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
+| [1770-minimum-deletions-to-make-character-frequencies-unique](https://github.com/Astitva0809/Leetcode/tree/master/1770-minimum-deletions-to-make-character-frequencies-unique) |
 | [2107-find-unique-binary-string](https://github.com/Astitva0809/Leetcode/tree/master/2107-find-unique-binary-string) |
 | [2576-minimum-penalty-for-a-shop](https://github.com/Astitva0809/Leetcode/tree/master/2576-minimum-penalty-for-a-shop) |
 | [3195-separate-black-and-white-balls](https://github.com/Astitva0809/Leetcode/tree/master/3195-separate-black-and-white-balls) |
@@ -118,6 +119,7 @@ Leetcode solutions
 | [1503-reducing-dishes](https://github.com/Astitva0809/Leetcode/tree/master/1503-reducing-dishes) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Astitva0809/Leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/Astitva0809/Leetcode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
+| [1770-minimum-deletions-to-make-character-frequencies-unique](https://github.com/Astitva0809/Leetcode/tree/master/1770-minimum-deletions-to-make-character-frequencies-unique) |
 | [1961-maximum-ice-cream-bars](https://github.com/Astitva0809/Leetcode/tree/master/1961-maximum-ice-cream-bars) |
 | [2117-find-original-array-from-doubled-array](https://github.com/Astitva0809/Leetcode/tree/master/2117-find-original-array-from-doubled-array) |
 | [3195-separate-black-and-white-balls](https://github.com/Astitva0809/Leetcode/tree/master/3195-separate-black-and-white-balls) |
@@ -164,6 +166,7 @@ Leetcode solutions
 | [0451-sort-characters-by-frequency](https://github.com/Astitva0809/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0525-contiguous-array](https://github.com/Astitva0809/Leetcode/tree/master/0525-contiguous-array) |
 | [0991-array-of-doubled-pairs](https://github.com/Astitva0809/Leetcode/tree/master/0991-array-of-doubled-pairs) |
+| [1770-minimum-deletions-to-make-character-frequencies-unique](https://github.com/Astitva0809/Leetcode/tree/master/1770-minimum-deletions-to-make-character-frequencies-unique) |
 | [2107-find-unique-binary-string](https://github.com/Astitva0809/Leetcode/tree/master/2107-find-unique-binary-string) |
 | [2117-find-original-array-from-doubled-array](https://github.com/Astitva0809/Leetcode/tree/master/2117-find-original-array-from-doubled-array) |
 | [2586-longest-square-streak-in-an-array](https://github.com/Astitva0809/Leetcode/tree/master/2586-longest-square-streak-in-an-array) |
@@ -178,6 +181,7 @@ Leetcode solutions
 | [0455-assign-cookies](https://github.com/Astitva0809/Leetcode/tree/master/0455-assign-cookies) |
 | [0991-array-of-doubled-pairs](https://github.com/Astitva0809/Leetcode/tree/master/0991-array-of-doubled-pairs) |
 | [1503-reducing-dishes](https://github.com/Astitva0809/Leetcode/tree/master/1503-reducing-dishes) |
+| [1770-minimum-deletions-to-make-character-frequencies-unique](https://github.com/Astitva0809/Leetcode/tree/master/1770-minimum-deletions-to-make-character-frequencies-unique) |
 | [1961-maximum-ice-cream-bars](https://github.com/Astitva0809/Leetcode/tree/master/1961-maximum-ice-cream-bars) |
 | [2117-find-original-array-from-doubled-array](https://github.com/Astitva0809/Leetcode/tree/master/2117-find-original-array-from-doubled-array) |
 | [2554-minimum-total-distance-traveled](https://github.com/Astitva0809/Leetcode/tree/master/2554-minimum-total-distance-traveled) |
