@@ -35,6 +35,7 @@ Leetcode solutions
 | [1603-running-sum-of-1d-array](https://github.com/Astitva0809/Leetcode/tree/master/1603-running-sum-of-1d-array) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Astitva0809/Leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/Astitva0809/Leetcode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
+| [1940-maximum-xor-for-each-query](https://github.com/Astitva0809/Leetcode/tree/master/1940-maximum-xor-for-each-query) |
 | [1961-maximum-ice-cream-bars](https://github.com/Astitva0809/Leetcode/tree/master/1961-maximum-ice-cream-bars) |
 | [1983-maximum-population-year](https://github.com/Astitva0809/Leetcode/tree/master/1983-maximum-population-year) |
 | [2020-remove-one-element-to-make-the-array-strictly-increasing](https://github.com/Astitva0809/Leetcode/tree/master/2020-remove-one-element-to-make-the-array-strictly-increasing) |
@@ -67,6 +68,7 @@ Leetcode solutions
 | [0371-sum-of-two-integers](https://github.com/Astitva0809/Leetcode/tree/master/0371-sum-of-two-integers) |
 | [0397-integer-replacement](https://github.com/Astitva0809/Leetcode/tree/master/0397-integer-replacement) |
 | [0800-letter-case-permutation](https://github.com/Astitva0809/Leetcode/tree/master/0800-letter-case-permutation) |
+| [1940-maximum-xor-for-each-query](https://github.com/Astitva0809/Leetcode/tree/master/1940-maximum-xor-for-each-query) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Astitva0809/Leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Astitva0809/Leetcode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [3291-find-if-array-can-be-sorted](https://github.com/Astitva0809/Leetcode/tree/master/3291-find-if-array-can-be-sorted) |
@@ -317,6 +319,7 @@ Leetcode solutions
 | ------- |
 | [0525-contiguous-array](https://github.com/Astitva0809/Leetcode/tree/master/0525-contiguous-array) |
 | [1603-running-sum-of-1d-array](https://github.com/Astitva0809/Leetcode/tree/master/1603-running-sum-of-1d-array) |
+| [1940-maximum-xor-for-each-query](https://github.com/Astitva0809/Leetcode/tree/master/1940-maximum-xor-for-each-query) |
 | [1983-maximum-population-year](https://github.com/Astitva0809/Leetcode/tree/master/1983-maximum-population-year) |
 | [2576-minimum-penalty-for-a-shop](https://github.com/Astitva0809/Leetcode/tree/master/2576-minimum-penalty-for-a-shop) |
 ## Breadth-First Search
