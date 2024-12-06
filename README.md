@@ -49,6 +49,7 @@ Leetcode solutions
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/Astitva0809/Leetcode/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2554-minimum-total-distance-traveled](https://github.com/Astitva0809/Leetcode/tree/master/2554-minimum-total-distance-traveled) |
 | [2586-longest-square-streak-in-an-array](https://github.com/Astitva0809/Leetcode/tree/master/2586-longest-square-streak-in-an-array) |
+| [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Astitva0809/Leetcode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2716-prime-subtraction-operation](https://github.com/Astitva0809/Leetcode/tree/master/2716-prime-subtraction-operation) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/Astitva0809/Leetcode/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [3291-find-if-array-can-be-sorted](https://github.com/Astitva0809/Leetcode/tree/master/3291-find-if-array-can-be-sorted) |
@@ -152,6 +153,7 @@ Leetcode solutions
 | [1961-maximum-ice-cream-bars](https://github.com/Astitva0809/Leetcode/tree/master/1961-maximum-ice-cream-bars) |
 | [2117-find-original-array-from-doubled-array](https://github.com/Astitva0809/Leetcode/tree/master/2117-find-original-array-from-doubled-array) |
 | [2212-removing-minimum-and-maximum-from-array](https://github.com/Astitva0809/Leetcode/tree/master/2212-removing-minimum-and-maximum-from-array) |
+| [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Astitva0809/Leetcode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2716-prime-subtraction-operation](https://github.com/Astitva0809/Leetcode/tree/master/2716-prime-subtraction-operation) |
 | [3195-separate-black-and-white-balls](https://github.com/Astitva0809/Leetcode/tree/master/3195-separate-black-and-white-balls) |
 ## Linked List
@@ -205,6 +207,7 @@ Leetcode solutions
 | [2117-find-original-array-from-doubled-array](https://github.com/Astitva0809/Leetcode/tree/master/2117-find-original-array-from-doubled-array) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Astitva0809/Leetcode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2586-longest-square-streak-in-an-array](https://github.com/Astitva0809/Leetcode/tree/master/2586-longest-square-streak-in-an-array) |
+| [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Astitva0809/Leetcode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/Astitva0809/Leetcode/tree/master/2677-cousins-in-binary-tree-ii) |
 | [3594-identify-the-largest-outlier-in-an-array](https://github.com/Astitva0809/Leetcode/tree/master/3594-identify-the-largest-outlier-in-an-array) |
 ## Sorting
@@ -223,6 +226,7 @@ Leetcode solutions
 | [2117-find-original-array-from-doubled-array](https://github.com/Astitva0809/Leetcode/tree/master/2117-find-original-array-from-doubled-array) |
 | [2554-minimum-total-distance-traveled](https://github.com/Astitva0809/Leetcode/tree/master/2554-minimum-total-distance-traveled) |
 | [2586-longest-square-streak-in-an-array](https://github.com/Astitva0809/Leetcode/tree/master/2586-longest-square-streak-in-an-array) |
+| [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Astitva0809/Leetcode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/Astitva0809/Leetcode/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [3291-find-if-array-can-be-sorted](https://github.com/Astitva0809/Leetcode/tree/master/3291-find-if-array-can-be-sorted) |
 ## Divide and Conquer
@@ -262,6 +266,7 @@ Leetcode solutions
 | [1468-check-if-n-and-its-double-exist](https://github.com/Astitva0809/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/Astitva0809/Leetcode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [2586-longest-square-streak-in-an-array](https://github.com/Astitva0809/Leetcode/tree/master/2586-longest-square-streak-in-an-array) |
+| [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Astitva0809/Leetcode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2716-prime-subtraction-operation](https://github.com/Astitva0809/Leetcode/tree/master/2716-prime-subtraction-operation) |
 ## Stack
 |  |
