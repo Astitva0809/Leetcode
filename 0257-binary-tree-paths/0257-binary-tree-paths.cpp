@@ -22,7 +22,7 @@ public:
            temp.pop_back();
            return;
         }
-        // cout << root -> val << endl;
+      
         temp.push_back(root->val);
         helper(root->left, temp,ans);
         helper(root->right, temp,ans);
