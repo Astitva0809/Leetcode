@@ -56,6 +56,7 @@ Leetcode solutions
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/Astitva0809/Leetcode/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [3291-find-if-array-can-be-sorted](https://github.com/Astitva0809/Leetcode/tree/master/3291-find-if-array-can-be-sorted) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/Astitva0809/Leetcode/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
+| [3427-special-array-ii](https://github.com/Astitva0809/Leetcode/tree/master/3427-special-array-ii) |
 | [3594-identify-the-largest-outlier-in-an-array](https://github.com/Astitva0809/Leetcode/tree/master/3594-identify-the-largest-outlier-in-an-array) |
 | [3644-minimum-positive-sum-subarray](https://github.com/Astitva0809/Leetcode/tree/master/3644-minimum-positive-sum-subarray) |
 ## Backtracking
@@ -276,6 +277,7 @@ Leetcode solutions
 | [2586-longest-square-streak-in-an-array](https://github.com/Astitva0809/Leetcode/tree/master/2586-longest-square-streak-in-an-array) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Astitva0809/Leetcode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2716-prime-subtraction-operation](https://github.com/Astitva0809/Leetcode/tree/master/2716-prime-subtraction-operation) |
+| [3427-special-array-ii](https://github.com/Astitva0809/Leetcode/tree/master/3427-special-array-ii) |
 ## Stack
 |  |
 | ------- |
@@ -368,6 +370,7 @@ Leetcode solutions
 | [1940-maximum-xor-for-each-query](https://github.com/Astitva0809/Leetcode/tree/master/1940-maximum-xor-for-each-query) |
 | [1983-maximum-population-year](https://github.com/Astitva0809/Leetcode/tree/master/1983-maximum-population-year) |
 | [2576-minimum-penalty-for-a-shop](https://github.com/Astitva0809/Leetcode/tree/master/2576-minimum-penalty-for-a-shop) |
+| [3427-special-array-ii](https://github.com/Astitva0809/Leetcode/tree/master/3427-special-array-ii) |
 | [3644-minimum-positive-sum-subarray](https://github.com/Astitva0809/Leetcode/tree/master/3644-minimum-positive-sum-subarray) |
 ## Breadth-First Search
 |  |
