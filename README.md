@@ -55,6 +55,7 @@ Leetcode solutions
 | [2692-take-gifts-from-the-richest-pile](https://github.com/Astitva0809/Leetcode/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2716-prime-subtraction-operation](https://github.com/Astitva0809/Leetcode/tree/master/2716-prime-subtraction-operation) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/Astitva0809/Leetcode/tree/master/2794-maximum-number-of-moves-in-a-grid) |
+| [2868-continuous-subarrays](https://github.com/Astitva0809/Leetcode/tree/master/2868-continuous-subarrays) |
 | [3291-find-if-array-can-be-sorted](https://github.com/Astitva0809/Leetcode/tree/master/3291-find-if-array-can-be-sorted) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/Astitva0809/Leetcode/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3427-special-array-ii](https://github.com/Astitva0809/Leetcode/tree/master/3427-special-array-ii) |
@@ -344,6 +345,7 @@ Leetcode solutions
 | [1304-longest-happy-string](https://github.com/Astitva0809/Leetcode/tree/master/1304-longest-happy-string) |
 | [2164-two-best-non-overlapping-events](https://github.com/Astitva0809/Leetcode/tree/master/2164-two-best-non-overlapping-events) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/Astitva0809/Leetcode/tree/master/2692-take-gifts-from-the-richest-pile) |
+| [2868-continuous-subarrays](https://github.com/Astitva0809/Leetcode/tree/master/2868-continuous-subarrays) |
 ## Quickselect
 |  |
 | ------- |
@@ -394,6 +396,7 @@ Leetcode solutions
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Astitva0809/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [2868-continuous-subarrays](https://github.com/Astitva0809/Leetcode/tree/master/2868-continuous-subarrays) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -414,10 +417,19 @@ Leetcode solutions
 ## Sliding Window
 |  |
 | ------- |
+| [2868-continuous-subarrays](https://github.com/Astitva0809/Leetcode/tree/master/2868-continuous-subarrays) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/Astitva0809/Leetcode/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3644-minimum-positive-sum-subarray](https://github.com/Astitva0809/Leetcode/tree/master/3644-minimum-positive-sum-subarray) |
 ## Number Theory
 |  |
 | ------- |
 | [2716-prime-subtraction-operation](https://github.com/Astitva0809/Leetcode/tree/master/2716-prime-subtraction-operation) |
+## Ordered Set
+|  |
+| ------- |
+| [2868-continuous-subarrays](https://github.com/Astitva0809/Leetcode/tree/master/2868-continuous-subarrays) |
+## Monotonic Queue
+|  |
+| ------- |
+| [2868-continuous-subarrays](https://github.com/Astitva0809/Leetcode/tree/master/2868-continuous-subarrays) |
 <!---LeetCode Topics End-->
