@@ -27,6 +27,7 @@ Leetcode solutions
 | [0494-target-sum](https://github.com/Astitva0809/Leetcode/tree/master/0494-target-sum) |
 | [0498-diagonal-traverse](https://github.com/Astitva0809/Leetcode/tree/master/0498-diagonal-traverse) |
 | [0525-contiguous-array](https://github.com/Astitva0809/Leetcode/tree/master/0525-contiguous-array) |
+| [0954-maximum-sum-circular-subarray](https://github.com/Astitva0809/Leetcode/tree/master/0954-maximum-sum-circular-subarray) |
 | [0978-valid-mountain-array](https://github.com/Astitva0809/Leetcode/tree/master/0978-valid-mountain-array) |
 | [0991-array-of-doubled-pairs](https://github.com/Astitva0809/Leetcode/tree/master/0991-array-of-doubled-pairs) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Astitva0809/Leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
@@ -246,6 +247,7 @@ Leetcode solutions
 | ------- |
 | [0053-maximum-subarray](https://github.com/Astitva0809/Leetcode/tree/master/0053-maximum-subarray) |
 | [0324-wiggle-sort-ii](https://github.com/Astitva0809/Leetcode/tree/master/0324-wiggle-sort-ii) |
+| [0954-maximum-sum-circular-subarray](https://github.com/Astitva0809/Leetcode/tree/master/0954-maximum-sum-circular-subarray) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -257,6 +259,7 @@ Leetcode solutions
 | [0494-target-sum](https://github.com/Astitva0809/Leetcode/tree/master/0494-target-sum) |
 | [0514-freedom-trail](https://github.com/Astitva0809/Leetcode/tree/master/0514-freedom-trail) |
 | [0804-rotated-digits](https://github.com/Astitva0809/Leetcode/tree/master/0804-rotated-digits) |
+| [0954-maximum-sum-circular-subarray](https://github.com/Astitva0809/Leetcode/tree/master/0954-maximum-sum-circular-subarray) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Astitva0809/Leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1503-reducing-dishes](https://github.com/Astitva0809/Leetcode/tree/master/1503-reducing-dishes) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Astitva0809/Leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
@@ -404,6 +407,7 @@ Leetcode solutions
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Astitva0809/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [0954-maximum-sum-circular-subarray](https://github.com/Astitva0809/Leetcode/tree/master/0954-maximum-sum-circular-subarray) |
 | [2868-continuous-subarrays](https://github.com/Astitva0809/Leetcode/tree/master/2868-continuous-subarrays) |
 ## Monotonic Stack
 |  |
@@ -440,5 +444,6 @@ Leetcode solutions
 ## Monotonic Queue
 |  |
 | ------- |
+| [0954-maximum-sum-circular-subarray](https://github.com/Astitva0809/Leetcode/tree/master/0954-maximum-sum-circular-subarray) |
 | [2868-continuous-subarrays](https://github.com/Astitva0809/Leetcode/tree/master/2868-continuous-subarrays) |
 <!---LeetCode Topics End-->
