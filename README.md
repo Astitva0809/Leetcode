@@ -33,6 +33,7 @@ Leetcode solutions
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Astitva0809/Leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Astitva0809/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1503-reducing-dishes](https://github.com/Astitva0809/Leetcode/tree/master/1503-reducing-dishes) |
+| [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Astitva0809/Leetcode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1603-running-sum-of-1d-array](https://github.com/Astitva0809/Leetcode/tree/master/1603-running-sum-of-1d-array) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Astitva0809/Leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/Astitva0809/Leetcode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
@@ -292,6 +293,7 @@ Leetcode solutions
 | [0094-binary-tree-inorder-traversal](https://github.com/Astitva0809/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0402-remove-k-digits](https://github.com/Astitva0809/Leetcode/tree/master/0402-remove-k-digits) |
 | [1197-parsing-a-boolean-expression](https://github.com/Astitva0809/Leetcode/tree/master/1197-parsing-a-boolean-expression) |
+| [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Astitva0809/Leetcode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 ## Tree
 |  |
 | ------- |
@@ -407,6 +409,7 @@ Leetcode solutions
 |  |
 | ------- |
 | [0402-remove-k-digits](https://github.com/Astitva0809/Leetcode/tree/master/0402-remove-k-digits) |
+| [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Astitva0809/Leetcode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 ## Bucket Sort
 |  |
 | ------- |
