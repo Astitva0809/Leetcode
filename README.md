@@ -309,6 +309,7 @@ Leetcode solutions
 | [0450-delete-node-in-a-bst](https://github.com/Astitva0809/Leetcode/tree/master/0450-delete-node-in-a-bst) |
 | [0513-find-bottom-left-tree-value](https://github.com/Astitva0809/Leetcode/tree/master/0513-find-bottom-left-tree-value) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Astitva0809/Leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0799-minimum-distance-between-bst-nodes](https://github.com/Astitva0809/Leetcode/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0988-flip-equivalent-binary-trees](https://github.com/Astitva0809/Leetcode/tree/master/0988-flip-equivalent-binary-trees) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/Astitva0809/Leetcode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Astitva0809/Leetcode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
@@ -330,6 +331,7 @@ Leetcode solutions
 | [0513-find-bottom-left-tree-value](https://github.com/Astitva0809/Leetcode/tree/master/0513-find-bottom-left-tree-value) |
 | [0514-freedom-trail](https://github.com/Astitva0809/Leetcode/tree/master/0514-freedom-trail) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Astitva0809/Leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0799-minimum-distance-between-bst-nodes](https://github.com/Astitva0809/Leetcode/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0988-flip-equivalent-binary-trees](https://github.com/Astitva0809/Leetcode/tree/master/0988-flip-equivalent-binary-trees) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/Astitva0809/Leetcode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Astitva0809/Leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
@@ -349,6 +351,7 @@ Leetcode solutions
 | [0450-delete-node-in-a-bst](https://github.com/Astitva0809/Leetcode/tree/master/0450-delete-node-in-a-bst) |
 | [0513-find-bottom-left-tree-value](https://github.com/Astitva0809/Leetcode/tree/master/0513-find-bottom-left-tree-value) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Astitva0809/Leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0799-minimum-distance-between-bst-nodes](https://github.com/Astitva0809/Leetcode/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0988-flip-equivalent-binary-trees](https://github.com/Astitva0809/Leetcode/tree/master/0988-flip-equivalent-binary-trees) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/Astitva0809/Leetcode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Astitva0809/Leetcode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
@@ -361,6 +364,7 @@ Leetcode solutions
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Astitva0809/Leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/Astitva0809/Leetcode/tree/master/0450-delete-node-in-a-bst) |
+| [0799-minimum-distance-between-bst-nodes](https://github.com/Astitva0809/Leetcode/tree/master/0799-minimum-distance-between-bst-nodes) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -408,6 +412,7 @@ Leetcode solutions
 | [0513-find-bottom-left-tree-value](https://github.com/Astitva0809/Leetcode/tree/master/0513-find-bottom-left-tree-value) |
 | [0514-freedom-trail](https://github.com/Astitva0809/Leetcode/tree/master/0514-freedom-trail) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Astitva0809/Leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0799-minimum-distance-between-bst-nodes](https://github.com/Astitva0809/Leetcode/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/Astitva0809/Leetcode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Astitva0809/Leetcode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/Astitva0809/Leetcode/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
