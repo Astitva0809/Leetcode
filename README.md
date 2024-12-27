@@ -310,6 +310,7 @@ Leetcode solutions
 | [0094-binary-tree-inorder-traversal](https://github.com/Astitva0809/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/Astitva0809/Leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Astitva0809/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0111-minimum-depth-of-binary-tree](https://github.com/Astitva0809/Leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0113-path-sum-ii](https://github.com/Astitva0809/Leetcode/tree/master/0113-path-sum-ii) |
 | [0257-binary-tree-paths](https://github.com/Astitva0809/Leetcode/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/Astitva0809/Leetcode/tree/master/0404-sum-of-left-leaves) |
@@ -331,6 +332,7 @@ Leetcode solutions
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Astitva0809/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/Astitva0809/Leetcode/tree/master/0098-validate-binary-search-tree) |
+| [0111-minimum-depth-of-binary-tree](https://github.com/Astitva0809/Leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0113-path-sum-ii](https://github.com/Astitva0809/Leetcode/tree/master/0113-path-sum-ii) |
 | [0257-binary-tree-paths](https://github.com/Astitva0809/Leetcode/tree/master/0257-binary-tree-paths) |
 | [0386-lexicographical-numbers](https://github.com/Astitva0809/Leetcode/tree/master/0386-lexicographical-numbers) |
@@ -353,6 +355,7 @@ Leetcode solutions
 | [0094-binary-tree-inorder-traversal](https://github.com/Astitva0809/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/Astitva0809/Leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Astitva0809/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0111-minimum-depth-of-binary-tree](https://github.com/Astitva0809/Leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0113-path-sum-ii](https://github.com/Astitva0809/Leetcode/tree/master/0113-path-sum-ii) |
 | [0257-binary-tree-paths](https://github.com/Astitva0809/Leetcode/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/Astitva0809/Leetcode/tree/master/0404-sum-of-left-leaves) |
@@ -417,6 +420,7 @@ Leetcode solutions
 ## Breadth-First Search
 |  |
 | ------- |
+| [0111-minimum-depth-of-binary-tree](https://github.com/Astitva0809/Leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/Astitva0809/Leetcode/tree/master/0404-sum-of-left-leaves) |
 | [0513-find-bottom-left-tree-value](https://github.com/Astitva0809/Leetcode/tree/master/0513-find-bottom-left-tree-value) |
 | [0514-freedom-trail](https://github.com/Astitva0809/Leetcode/tree/master/0514-freedom-trail) |
