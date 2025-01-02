@@ -26,6 +26,7 @@ Leetcode solutions
 | [0442-find-all-duplicates-in-an-array](https://github.com/Astitva0809/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Astitva0809/Leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0455-assign-cookies](https://github.com/Astitva0809/Leetcode/tree/master/0455-assign-cookies) |
+| [0456-132-pattern](https://github.com/Astitva0809/Leetcode/tree/master/0456-132-pattern) |
 | [0494-target-sum](https://github.com/Astitva0809/Leetcode/tree/master/0494-target-sum) |
 | [0498-diagonal-traverse](https://github.com/Astitva0809/Leetcode/tree/master/0498-diagonal-traverse) |
 | [0525-contiguous-array](https://github.com/Astitva0809/Leetcode/tree/master/0525-contiguous-array) |
@@ -294,6 +295,7 @@ Leetcode solutions
 |  |
 | ------- |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Astitva0809/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0456-132-pattern](https://github.com/Astitva0809/Leetcode/tree/master/0456-132-pattern) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Astitva0809/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/Astitva0809/Leetcode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/Astitva0809/Leetcode/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
@@ -307,6 +309,7 @@ Leetcode solutions
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Astitva0809/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0402-remove-k-digits](https://github.com/Astitva0809/Leetcode/tree/master/0402-remove-k-digits) |
+| [0456-132-pattern](https://github.com/Astitva0809/Leetcode/tree/master/0456-132-pattern) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Astitva0809/Leetcode/tree/master/0780-max-chunks-to-make-sorted) |
 | [1197-parsing-a-boolean-expression](https://github.com/Astitva0809/Leetcode/tree/master/1197-parsing-a-boolean-expression) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Astitva0809/Leetcode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
@@ -455,6 +458,7 @@ Leetcode solutions
 |  |
 | ------- |
 | [0402-remove-k-digits](https://github.com/Astitva0809/Leetcode/tree/master/0402-remove-k-digits) |
+| [0456-132-pattern](https://github.com/Astitva0809/Leetcode/tree/master/0456-132-pattern) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Astitva0809/Leetcode/tree/master/0780-max-chunks-to-make-sorted) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Astitva0809/Leetcode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 ## Bucket Sort
@@ -484,6 +488,7 @@ Leetcode solutions
 ## Ordered Set
 |  |
 | ------- |
+| [0456-132-pattern](https://github.com/Astitva0809/Leetcode/tree/master/0456-132-pattern) |
 | [2868-continuous-subarrays](https://github.com/Astitva0809/Leetcode/tree/master/2868-continuous-subarrays) |
 ## Monotonic Queue
 |  |
