@@ -55,6 +55,7 @@ Leetcode solutions
 | [2212-removing-minimum-and-maximum-from-array](https://github.com/Astitva0809/Leetcode/tree/master/2212-removing-minimum-and-maximum-from-array) |
 | [2232-adding-spaces-to-a-string](https://github.com/Astitva0809/Leetcode/tree/master/2232-adding-spaces-to-a-string) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Astitva0809/Leetcode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
+| [2358-number-of-ways-to-split-array](https://github.com/Astitva0809/Leetcode/tree/master/2358-number-of-ways-to-split-array) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/Astitva0809/Leetcode/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2554-minimum-total-distance-traveled](https://github.com/Astitva0809/Leetcode/tree/master/2554-minimum-total-distance-traveled) |
 | [2586-longest-square-streak-in-an-array](https://github.com/Astitva0809/Leetcode/tree/master/2586-longest-square-streak-in-an-array) |
@@ -426,6 +427,7 @@ Leetcode solutions
 | [1603-running-sum-of-1d-array](https://github.com/Astitva0809/Leetcode/tree/master/1603-running-sum-of-1d-array) |
 | [1940-maximum-xor-for-each-query](https://github.com/Astitva0809/Leetcode/tree/master/1940-maximum-xor-for-each-query) |
 | [1983-maximum-population-year](https://github.com/Astitva0809/Leetcode/tree/master/1983-maximum-population-year) |
+| [2358-number-of-ways-to-split-array](https://github.com/Astitva0809/Leetcode/tree/master/2358-number-of-ways-to-split-array) |
 | [2576-minimum-penalty-for-a-shop](https://github.com/Astitva0809/Leetcode/tree/master/2576-minimum-penalty-for-a-shop) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Astitva0809/Leetcode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3427-special-array-ii](https://github.com/Astitva0809/Leetcode/tree/master/3427-special-array-ii) |
