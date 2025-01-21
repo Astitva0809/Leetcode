@@ -81,6 +81,7 @@ Leetcode solutions
 | [3632-button-with-longest-push-time](https://github.com/Astitva0809/Leetcode/tree/master/3632-button-with-longest-push-time) |
 | [3644-minimum-positive-sum-subarray](https://github.com/Astitva0809/Leetcode/tree/master/3644-minimum-positive-sum-subarray) |
 | [3712-minimum-cost-to-make-arrays-identical](https://github.com/Astitva0809/Leetcode/tree/master/3712-minimum-cost-to-make-arrays-identical) |
+| [3731-sum-of-variable-length-subarrays](https://github.com/Astitva0809/Leetcode/tree/master/3731-sum-of-variable-length-subarrays) |
 ## Backtracking
 |  |
 | ------- |
@@ -465,6 +466,7 @@ Leetcode solutions
 | [2691-count-vowel-strings-in-ranges](https://github.com/Astitva0809/Leetcode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3427-special-array-ii](https://github.com/Astitva0809/Leetcode/tree/master/3427-special-array-ii) |
 | [3644-minimum-positive-sum-subarray](https://github.com/Astitva0809/Leetcode/tree/master/3644-minimum-positive-sum-subarray) |
+| [3731-sum-of-variable-length-subarrays](https://github.com/Astitva0809/Leetcode/tree/master/3731-sum-of-variable-length-subarrays) |
 ## Breadth-First Search
 |  |
 | ------- |
