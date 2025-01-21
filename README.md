@@ -80,6 +80,7 @@ Leetcode solutions
 | [3594-identify-the-largest-outlier-in-an-array](https://github.com/Astitva0809/Leetcode/tree/master/3594-identify-the-largest-outlier-in-an-array) |
 | [3632-button-with-longest-push-time](https://github.com/Astitva0809/Leetcode/tree/master/3632-button-with-longest-push-time) |
 | [3644-minimum-positive-sum-subarray](https://github.com/Astitva0809/Leetcode/tree/master/3644-minimum-positive-sum-subarray) |
+| [3712-minimum-cost-to-make-arrays-identical](https://github.com/Astitva0809/Leetcode/tree/master/3712-minimum-cost-to-make-arrays-identical) |
 ## Backtracking
 |  |
 | ------- |
@@ -197,6 +198,7 @@ Leetcode solutions
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Astitva0809/Leetcode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2716-prime-subtraction-operation](https://github.com/Astitva0809/Leetcode/tree/master/2716-prime-subtraction-operation) |
 | [3195-separate-black-and-white-balls](https://github.com/Astitva0809/Leetcode/tree/master/3195-separate-black-and-white-balls) |
+| [3712-minimum-cost-to-make-arrays-identical](https://github.com/Astitva0809/Leetcode/tree/master/3712-minimum-cost-to-make-arrays-identical) |
 ## Linked List
 |  |
 | ------- |
@@ -280,6 +282,7 @@ Leetcode solutions
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Astitva0809/Leetcode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/Astitva0809/Leetcode/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [3291-find-if-array-can-be-sorted](https://github.com/Astitva0809/Leetcode/tree/master/3291-find-if-array-can-be-sorted) |
+| [3712-minimum-cost-to-make-arrays-identical](https://github.com/Astitva0809/Leetcode/tree/master/3712-minimum-cost-to-make-arrays-identical) |
 ## Divide and Conquer
 |  |
 | ------- |
