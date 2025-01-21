@@ -74,6 +74,7 @@ Leetcode solutions
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/Astitva0809/Leetcode/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [2868-continuous-subarrays](https://github.com/Astitva0809/Leetcode/tree/master/2868-continuous-subarrays) |
 | [3291-find-if-array-can-be-sorted](https://github.com/Astitva0809/Leetcode/tree/master/3291-find-if-array-can-be-sorted) |
+| [3320-maximum-number-of-operations-with-the-same-score-i](https://github.com/Astitva0809/Leetcode/tree/master/3320-maximum-number-of-operations-with-the-same-score-i) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/Astitva0809/Leetcode/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3427-special-array-ii](https://github.com/Astitva0809/Leetcode/tree/master/3427-special-array-ii) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Astitva0809/Leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
@@ -322,6 +323,7 @@ Leetcode solutions
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/Astitva0809/Leetcode/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [2232-adding-spaces-to-a-string](https://github.com/Astitva0809/Leetcode/tree/master/2232-adding-spaces-to-a-string) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/Astitva0809/Leetcode/tree/master/2692-take-gifts-from-the-richest-pile) |
+| [3320-maximum-number-of-operations-with-the-same-score-i](https://github.com/Astitva0809/Leetcode/tree/master/3320-maximum-number-of-operations-with-the-same-score-i) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Astitva0809/Leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Binary Search
 |  |
