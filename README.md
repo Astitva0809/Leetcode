@@ -79,6 +79,7 @@ Leetcode solutions
 | [3594-identify-the-largest-outlier-in-an-array](https://github.com/Astitva0809/Leetcode/tree/master/3594-identify-the-largest-outlier-in-an-array) |
 | [3632-button-with-longest-push-time](https://github.com/Astitva0809/Leetcode/tree/master/3632-button-with-longest-push-time) |
 | [3644-minimum-positive-sum-subarray](https://github.com/Astitva0809/Leetcode/tree/master/3644-minimum-positive-sum-subarray) |
+| [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/Astitva0809/Leetcode/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 ## Backtracking
 |  |
 | ------- |
