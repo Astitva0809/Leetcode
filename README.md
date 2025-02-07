@@ -38,6 +38,7 @@ Leetcode solutions
 | [0991-array-of-doubled-pairs](https://github.com/Astitva0809/Leetcode/tree/master/0991-array-of-doubled-pairs) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/Astitva0809/Leetcode/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Astitva0809/Leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [1364-tuple-with-same-product](https://github.com/Astitva0809/Leetcode/tree/master/1364-tuple-with-same-product) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Astitva0809/Leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Astitva0809/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1503-reducing-dishes](https://github.com/Astitva0809/Leetcode/tree/master/1503-reducing-dishes) |
@@ -252,6 +253,7 @@ Leetcode solutions
 | [0525-contiguous-array](https://github.com/Astitva0809/Leetcode/tree/master/0525-contiguous-array) |
 | [0952-word-subsets](https://github.com/Astitva0809/Leetcode/tree/master/0952-word-subsets) |
 | [0991-array-of-doubled-pairs](https://github.com/Astitva0809/Leetcode/tree/master/0991-array-of-doubled-pairs) |
+| [1364-tuple-with-same-product](https://github.com/Astitva0809/Leetcode/tree/master/1364-tuple-with-same-product) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Astitva0809/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1502-construct-k-palindrome-strings](https://github.com/Astitva0809/Leetcode/tree/master/1502-construct-k-palindrome-strings) |
 | [1770-minimum-deletions-to-make-character-frequencies-unique](https://github.com/Astitva0809/Leetcode/tree/master/1770-minimum-deletions-to-make-character-frequencies-unique) |
@@ -450,6 +452,7 @@ Leetcode solutions
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Astitva0809/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/Astitva0809/Leetcode/tree/master/0451-sort-characters-by-frequency) |
+| [1364-tuple-with-same-product](https://github.com/Astitva0809/Leetcode/tree/master/1364-tuple-with-same-product) |
 | [1502-construct-k-palindrome-strings](https://github.com/Astitva0809/Leetcode/tree/master/1502-construct-k-palindrome-strings) |
 | [1983-maximum-population-year](https://github.com/Astitva0809/Leetcode/tree/master/1983-maximum-population-year) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Astitva0809/Leetcode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
