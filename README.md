@@ -32,6 +32,7 @@ Leetcode solutions
 | [0525-contiguous-array](https://github.com/Astitva0809/Leetcode/tree/master/0525-contiguous-array) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/Astitva0809/Leetcode/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Astitva0809/Leetcode/tree/master/0780-max-chunks-to-make-sorted) |
+| [0905-length-of-longest-fibonacci-subsequence](https://github.com/Astitva0809/Leetcode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0952-word-subsets](https://github.com/Astitva0809/Leetcode/tree/master/0952-word-subsets) |
 | [0954-maximum-sum-circular-subarray](https://github.com/Astitva0809/Leetcode/tree/master/0954-maximum-sum-circular-subarray) |
 | [0978-valid-mountain-array](https://github.com/Astitva0809/Leetcode/tree/master/0978-valid-mountain-array) |
@@ -251,6 +252,7 @@ Leetcode solutions
 | [0442-find-all-duplicates-in-an-array](https://github.com/Astitva0809/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/Astitva0809/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0525-contiguous-array](https://github.com/Astitva0809/Leetcode/tree/master/0525-contiguous-array) |
+| [0905-length-of-longest-fibonacci-subsequence](https://github.com/Astitva0809/Leetcode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0952-word-subsets](https://github.com/Astitva0809/Leetcode/tree/master/0952-word-subsets) |
 | [0991-array-of-doubled-pairs](https://github.com/Astitva0809/Leetcode/tree/master/0991-array-of-doubled-pairs) |
 | [1364-tuple-with-same-product](https://github.com/Astitva0809/Leetcode/tree/master/1364-tuple-with-same-product) |
@@ -308,6 +310,7 @@ Leetcode solutions
 | [0514-freedom-trail](https://github.com/Astitva0809/Leetcode/tree/master/0514-freedom-trail) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/Astitva0809/Leetcode/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0804-rotated-digits](https://github.com/Astitva0809/Leetcode/tree/master/0804-rotated-digits) |
+| [0905-length-of-longest-fibonacci-subsequence](https://github.com/Astitva0809/Leetcode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0954-maximum-sum-circular-subarray](https://github.com/Astitva0809/Leetcode/tree/master/0954-maximum-sum-circular-subarray) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Astitva0809/Leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1503-reducing-dishes](https://github.com/Astitva0809/Leetcode/tree/master/1503-reducing-dishes) |
