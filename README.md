@@ -37,6 +37,7 @@ Leetcode solutions
 | [0954-maximum-sum-circular-subarray](https://github.com/Astitva0809/Leetcode/tree/master/0954-maximum-sum-circular-subarray) |
 | [0978-valid-mountain-array](https://github.com/Astitva0809/Leetcode/tree/master/0978-valid-mountain-array) |
 | [0991-array-of-doubled-pairs](https://github.com/Astitva0809/Leetcode/tree/master/0991-array-of-doubled-pairs) |
+| [1036-rotting-oranges](https://github.com/Astitva0809/Leetcode/tree/master/1036-rotting-oranges) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/Astitva0809/Leetcode/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Astitva0809/Leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1364-tuple-with-same-product](https://github.com/Astitva0809/Leetcode/tree/master/1364-tuple-with-same-product) |
@@ -251,6 +252,7 @@ Leetcode solutions
 | [0048-rotate-image](https://github.com/Astitva0809/Leetcode/tree/master/0048-rotate-image) |
 | [0059-spiral-matrix-ii](https://github.com/Astitva0809/Leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0498-diagonal-traverse](https://github.com/Astitva0809/Leetcode/tree/master/0498-diagonal-traverse) |
+| [1036-rotting-oranges](https://github.com/Astitva0809/Leetcode/tree/master/1036-rotting-oranges) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Astitva0809/Leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [2685-first-completely-painted-row-or-column](https://github.com/Astitva0809/Leetcode/tree/master/2685-first-completely-painted-row-or-column) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/Astitva0809/Leetcode/tree/master/2794-maximum-number-of-moves-in-a-grid) |
@@ -503,6 +505,7 @@ Leetcode solutions
 | [0514-freedom-trail](https://github.com/Astitva0809/Leetcode/tree/master/0514-freedom-trail) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Astitva0809/Leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/Astitva0809/Leetcode/tree/master/0799-minimum-distance-between-bst-nodes) |
+| [1036-rotting-oranges](https://github.com/Astitva0809/Leetcode/tree/master/1036-rotting-oranges) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/Astitva0809/Leetcode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Astitva0809/Leetcode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/Astitva0809/Leetcode/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
