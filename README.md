@@ -80,6 +80,7 @@ Leetcode solutions
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/Astitva0809/Leetcode/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3291-find-if-array-can-be-sorted](https://github.com/Astitva0809/Leetcode/tree/master/3291-find-if-array-can-be-sorted) |
 | [3320-maximum-number-of-operations-with-the-same-score-i](https://github.com/Astitva0809/Leetcode/tree/master/3320-maximum-number-of-operations-with-the-same-score-i) |
+| [3321-type-of-triangle](https://github.com/Astitva0809/Leetcode/tree/master/3321-type-of-triangle) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/Astitva0809/Leetcode/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3427-special-array-ii](https://github.com/Astitva0809/Leetcode/tree/master/3427-special-array-ii) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Astitva0809/Leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
@@ -236,6 +237,7 @@ Leetcode solutions
 | [2575-minimum-cuts-to-divide-a-circle](https://github.com/Astitva0809/Leetcode/tree/master/2575-minimum-cuts-to-divide-a-circle) |
 | [2649-count-total-number-of-colored-cells](https://github.com/Astitva0809/Leetcode/tree/master/2649-count-total-number-of-colored-cells) |
 | [2716-prime-subtraction-operation](https://github.com/Astitva0809/Leetcode/tree/master/2716-prime-subtraction-operation) |
+| [3321-type-of-triangle](https://github.com/Astitva0809/Leetcode/tree/master/3321-type-of-triangle) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Astitva0809/Leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/Astitva0809/Leetcode/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3859-maximum-product-of-two-digits](https://github.com/Astitva0809/Leetcode/tree/master/3859-maximum-product-of-two-digits) |
@@ -304,6 +306,7 @@ Leetcode solutions
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Astitva0809/Leetcode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/Astitva0809/Leetcode/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [3291-find-if-array-can-be-sorted](https://github.com/Astitva0809/Leetcode/tree/master/3291-find-if-array-can-be-sorted) |
+| [3321-type-of-triangle](https://github.com/Astitva0809/Leetcode/tree/master/3321-type-of-triangle) |
 | [3712-minimum-cost-to-make-arrays-identical](https://github.com/Astitva0809/Leetcode/tree/master/3712-minimum-cost-to-make-arrays-identical) |
 | [3859-maximum-product-of-two-digits](https://github.com/Astitva0809/Leetcode/tree/master/3859-maximum-product-of-two-digits) |
 | [3871-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/Astitva0809/Leetcode/tree/master/3871-minimum-deletions-for-at-most-k-distinct-characters) |
