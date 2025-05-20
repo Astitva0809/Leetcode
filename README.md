@@ -240,6 +240,7 @@ Leetcode solutions
 | [3321-type-of-triangle](https://github.com/Astitva0809/Leetcode/tree/master/3321-type-of-triangle) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Astitva0809/Leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/Astitva0809/Leetcode/tree/master/3676-smallest-number-with-all-set-bits) |
+| [3830-find-closest-person](https://github.com/Astitva0809/Leetcode/tree/master/3830-find-closest-person) |
 | [3859-maximum-product-of-two-digits](https://github.com/Astitva0809/Leetcode/tree/master/3859-maximum-product-of-two-digits) |
 ## Recursion
 |  |
