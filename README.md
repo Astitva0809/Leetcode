@@ -92,6 +92,7 @@ Leetcode solutions
 | [3644-minimum-positive-sum-subarray](https://github.com/Astitva0809/Leetcode/tree/master/3644-minimum-positive-sum-subarray) |
 | [3712-minimum-cost-to-make-arrays-identical](https://github.com/Astitva0809/Leetcode/tree/master/3712-minimum-cost-to-make-arrays-identical) |
 | [3731-sum-of-variable-length-subarrays](https://github.com/Astitva0809/Leetcode/tree/master/3731-sum-of-variable-length-subarrays) |
+| [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Astitva0809/Leetcode/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## Backtracking
 |  |
 | ------- |
@@ -245,6 +246,7 @@ Leetcode solutions
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Astitva0809/Leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/Astitva0809/Leetcode/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3830-find-closest-person](https://github.com/Astitva0809/Leetcode/tree/master/3830-find-closest-person) |
+| [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Astitva0809/Leetcode/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3859-maximum-product-of-two-digits](https://github.com/Astitva0809/Leetcode/tree/master/3859-maximum-product-of-two-digits) |
 ## Recursion
 |  |
