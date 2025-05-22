@@ -229,6 +229,7 @@ Leetcode solutions
 | [0002-add-two-numbers](https://github.com/Astitva0809/Leetcode/tree/master/0002-add-two-numbers) |
 | [0048-rotate-image](https://github.com/Astitva0809/Leetcode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Astitva0809/Leetcode/tree/master/0050-powx-n) |
+| [0367-valid-perfect-square](https://github.com/Astitva0809/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0371-sum-of-two-integers](https://github.com/Astitva0809/Leetcode/tree/master/0371-sum-of-two-integers) |
 | [0412-fizz-buzz](https://github.com/Astitva0809/Leetcode/tree/master/0412-fizz-buzz) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Astitva0809/Leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
@@ -363,6 +364,7 @@ Leetcode solutions
 |  |
 | ------- |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Astitva0809/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0367-valid-perfect-square](https://github.com/Astitva0809/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0456-132-pattern](https://github.com/Astitva0809/Leetcode/tree/master/0456-132-pattern) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/Astitva0809/Leetcode/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Astitva0809/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
