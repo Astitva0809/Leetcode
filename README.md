@@ -38,6 +38,7 @@ Leetcode solutions
 | [0954-maximum-sum-circular-subarray](https://github.com/Astitva0809/Leetcode/tree/master/0954-maximum-sum-circular-subarray) |
 | [0978-valid-mountain-array](https://github.com/Astitva0809/Leetcode/tree/master/0978-valid-mountain-array) |
 | [0991-array-of-doubled-pairs](https://github.com/Astitva0809/Leetcode/tree/master/0991-array-of-doubled-pairs) |
+| [1032-satisfiability-of-equality-equations](https://github.com/Astitva0809/Leetcode/tree/master/1032-satisfiability-of-equality-equations) |
 | [1036-rotting-oranges](https://github.com/Astitva0809/Leetcode/tree/master/1036-rotting-oranges) |
 | [1324-where-will-the-ball-fall](https://github.com/Astitva0809/Leetcode/tree/master/1324-where-will-the-ball-fall) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/Astitva0809/Leetcode/tree/master/1335-maximum-candies-allocated-to-k-children) |
@@ -159,6 +160,7 @@ Leetcode solutions
 | [0800-letter-case-permutation](https://github.com/Astitva0809/Leetcode/tree/master/0800-letter-case-permutation) |
 | [0812-rotate-string](https://github.com/Astitva0809/Leetcode/tree/master/0812-rotate-string) |
 | [0952-word-subsets](https://github.com/Astitva0809/Leetcode/tree/master/0952-word-subsets) |
+| [1032-satisfiability-of-equality-equations](https://github.com/Astitva0809/Leetcode/tree/master/1032-satisfiability-of-equality-equations) |
 | [1197-parsing-a-boolean-expression](https://github.com/Astitva0809/Leetcode/tree/master/1197-parsing-a-boolean-expression) |
 | [1252-break-a-palindrome](https://github.com/Astitva0809/Leetcode/tree/master/1252-break-a-palindrome) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/Astitva0809/Leetcode/tree/master/1302-delete-characters-to-make-fancy-string) |
@@ -594,6 +596,7 @@ Leetcode solutions
 | ------- |
 | [0207-course-schedule](https://github.com/Astitva0809/Leetcode/tree/master/0207-course-schedule) |
 | [0547-number-of-provinces](https://github.com/Astitva0809/Leetcode/tree/master/0547-number-of-provinces) |
+| [1032-satisfiability-of-equality-equations](https://github.com/Astitva0809/Leetcode/tree/master/1032-satisfiability-of-equality-equations) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/Astitva0809/Leetcode/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
 ## Geometry
 |  |
@@ -603,6 +606,7 @@ Leetcode solutions
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/Astitva0809/Leetcode/tree/master/0547-number-of-provinces) |
+| [1032-satisfiability-of-equality-equations](https://github.com/Astitva0809/Leetcode/tree/master/1032-satisfiability-of-equality-equations) |
 ## Topological Sort
 |  |
 | ------- |
