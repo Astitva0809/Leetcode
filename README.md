@@ -432,6 +432,7 @@ Leetcode solutions
 | [0988-flip-equivalent-binary-trees](https://github.com/Astitva0809/Leetcode/tree/master/0988-flip-equivalent-binary-trees) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/Astitva0809/Leetcode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Astitva0809/Leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [1442-number-of-operations-to-make-network-connected](https://github.com/Astitva0809/Leetcode/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Astitva0809/Leetcode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/Astitva0809/Leetcode/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/Astitva0809/Leetcode/tree/master/2677-cousins-in-binary-tree-ii) |
@@ -529,6 +530,7 @@ Leetcode solutions
 | [0799-minimum-distance-between-bst-nodes](https://github.com/Astitva0809/Leetcode/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [1036-rotting-oranges](https://github.com/Astitva0809/Leetcode/tree/master/1036-rotting-oranges) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/Astitva0809/Leetcode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
+| [1442-number-of-operations-to-make-network-connected](https://github.com/Astitva0809/Leetcode/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Astitva0809/Leetcode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/Astitva0809/Leetcode/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/Astitva0809/Leetcode/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
@@ -597,6 +599,7 @@ Leetcode solutions
 | [0207-course-schedule](https://github.com/Astitva0809/Leetcode/tree/master/0207-course-schedule) |
 | [0547-number-of-provinces](https://github.com/Astitva0809/Leetcode/tree/master/0547-number-of-provinces) |
 | [1032-satisfiability-of-equality-equations](https://github.com/Astitva0809/Leetcode/tree/master/1032-satisfiability-of-equality-equations) |
+| [1442-number-of-operations-to-make-network-connected](https://github.com/Astitva0809/Leetcode/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/Astitva0809/Leetcode/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
 ## Geometry
 |  |
@@ -607,6 +610,7 @@ Leetcode solutions
 | ------- |
 | [0547-number-of-provinces](https://github.com/Astitva0809/Leetcode/tree/master/0547-number-of-provinces) |
 | [1032-satisfiability-of-equality-equations](https://github.com/Astitva0809/Leetcode/tree/master/1032-satisfiability-of-equality-equations) |
+| [1442-number-of-operations-to-make-network-connected](https://github.com/Astitva0809/Leetcode/tree/master/1442-number-of-operations-to-make-network-connected) |
 ## Topological Sort
 |  |
 | ------- |
