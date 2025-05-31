@@ -190,6 +190,7 @@ Leetcode solutions
 | [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/Astitva0809/Leetcode/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3195-separate-black-and-white-balls](https://github.com/Astitva0809/Leetcode/tree/master/3195-separate-black-and-white-balls) |
 | [3451-string-compression-iii](https://github.com/Astitva0809/Leetcode/tree/master/3451-string-compression-iii) |
+| [3709-find-special-substring-of-length-k](https://github.com/Astitva0809/Leetcode/tree/master/3709-find-special-substring-of-length-k) |
 | [3871-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/Astitva0809/Leetcode/tree/master/3871-minimum-deletions-for-at-most-k-distinct-characters) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Astitva0809/Leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Greedy
