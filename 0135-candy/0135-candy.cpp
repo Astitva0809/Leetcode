@@ -1,5 +1,6 @@
 class Solution {
 public:
+//2 pass greddy approach 
     int candy(vector<int>& ratings) {
        int n = ratings.size();
         std::vector<int> candies(n, 1);
