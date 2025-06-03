@@ -47,6 +47,7 @@ Leetcode solutions
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Astitva0809/Leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1364-tuple-with-same-product](https://github.com/Astitva0809/Leetcode/tree/master/1364-tuple-with-same-product) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Astitva0809/Leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [1424-maximum-candies-you-can-get-from-boxes](https://github.com/Astitva0809/Leetcode/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Astitva0809/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1503-reducing-dishes](https://github.com/Astitva0809/Leetcode/tree/master/1503-reducing-dishes) |
 | [1524-string-matching-in-an-array](https://github.com/Astitva0809/Leetcode/tree/master/1524-string-matching-in-an-array) |
@@ -558,6 +559,7 @@ Leetcode solutions
 | [0813-all-paths-from-source-to-target](https://github.com/Astitva0809/Leetcode/tree/master/0813-all-paths-from-source-to-target) |
 | [1036-rotting-oranges](https://github.com/Astitva0809/Leetcode/tree/master/1036-rotting-oranges) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/Astitva0809/Leetcode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
+| [1424-maximum-candies-you-can-get-from-boxes](https://github.com/Astitva0809/Leetcode/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/Astitva0809/Leetcode/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Astitva0809/Leetcode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/Astitva0809/Leetcode/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
@@ -631,6 +633,7 @@ Leetcode solutions
 | [0813-all-paths-from-source-to-target](https://github.com/Astitva0809/Leetcode/tree/master/0813-all-paths-from-source-to-target) |
 | [0863-sum-of-distances-in-tree](https://github.com/Astitva0809/Leetcode/tree/master/0863-sum-of-distances-in-tree) |
 | [1032-satisfiability-of-equality-equations](https://github.com/Astitva0809/Leetcode/tree/master/1032-satisfiability-of-equality-equations) |
+| [1424-maximum-candies-you-can-get-from-boxes](https://github.com/Astitva0809/Leetcode/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/Astitva0809/Leetcode/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/Astitva0809/Leetcode/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
 ## Geometry
