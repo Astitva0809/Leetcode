@@ -148,6 +148,7 @@ Leetcode solutions
 | [2414-move-pieces-to-obtain-a-string](https://github.com/Astitva0809/Leetcode/tree/master/2414-move-pieces-to-obtain-a-string) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/Astitva0809/Leetcode/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
 | [3195-separate-black-and-white-balls](https://github.com/Astitva0809/Leetcode/tree/master/3195-separate-black-and-white-balls) |
+| [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/Astitva0809/Leetcode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 ## String
 |  |
 | ------- |
@@ -194,6 +195,7 @@ Leetcode solutions
 | [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/Astitva0809/Leetcode/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3195-separate-black-and-white-balls](https://github.com/Astitva0809/Leetcode/tree/master/3195-separate-black-and-white-balls) |
 | [3451-string-compression-iii](https://github.com/Astitva0809/Leetcode/tree/master/3451-string-compression-iii) |
+| [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/Astitva0809/Leetcode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 | [3709-find-special-substring-of-length-k](https://github.com/Astitva0809/Leetcode/tree/master/3709-find-special-substring-of-length-k) |
 | [3871-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/Astitva0809/Leetcode/tree/master/3871-minimum-deletions-for-at-most-k-distinct-characters) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Astitva0809/Leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
@@ -517,6 +519,7 @@ Leetcode solutions
 | [2844-sum-of-squares-of-special-elements](https://github.com/Astitva0809/Leetcode/tree/master/2844-sum-of-squares-of-special-elements) |
 | [3201-distribute-candies-among-children-ii](https://github.com/Astitva0809/Leetcode/tree/master/3201-distribute-candies-among-children-ii) |
 | [3594-identify-the-largest-outlier-in-an-array](https://github.com/Astitva0809/Leetcode/tree/master/3594-identify-the-largest-outlier-in-an-array) |
+| [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/Astitva0809/Leetcode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 ## Counting
 |  |
 | ------- |
