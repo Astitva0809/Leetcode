@@ -94,6 +94,7 @@ Leetcode solutions
 | [3321-type-of-triangle](https://github.com/Astitva0809/Leetcode/tree/master/3321-type-of-triangle) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/Astitva0809/Leetcode/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3427-special-array-ii](https://github.com/Astitva0809/Leetcode/tree/master/3427-special-array-ii) |
+| [3522-find-the-power-of-k-size-subarrays-i](https://github.com/Astitva0809/Leetcode/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Astitva0809/Leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3594-identify-the-largest-outlier-in-an-array](https://github.com/Astitva0809/Leetcode/tree/master/3594-identify-the-largest-outlier-in-an-array) |
 | [3632-button-with-longest-push-time](https://github.com/Astitva0809/Leetcode/tree/master/3632-button-with-longest-push-time) |
@@ -627,6 +628,7 @@ Leetcode solutions
 | [0413-arithmetic-slices](https://github.com/Astitva0809/Leetcode/tree/master/0413-arithmetic-slices) |
 | [2868-continuous-subarrays](https://github.com/Astitva0809/Leetcode/tree/master/2868-continuous-subarrays) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/Astitva0809/Leetcode/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
+| [3522-find-the-power-of-k-size-subarrays-i](https://github.com/Astitva0809/Leetcode/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 | [3644-minimum-positive-sum-subarray](https://github.com/Astitva0809/Leetcode/tree/master/3644-minimum-positive-sum-subarray) |
 ## Number Theory
 |  |
