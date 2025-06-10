@@ -262,6 +262,7 @@ Leetcode solutions
 | [0670-maximum-swap](https://github.com/Astitva0809/Leetcode/tree/master/0670-maximum-swap) |
 | [0804-rotated-digits](https://github.com/Astitva0809/Leetcode/tree/master/0804-rotated-digits) |
 | [1033-broken-calculator](https://github.com/Astitva0809/Leetcode/tree/master/1033-broken-calculator) |
+| [1086-divisor-game](https://github.com/Astitva0809/Leetcode/tree/master/1086-divisor-game) |
 | [2491-smallest-even-multiple](https://github.com/Astitva0809/Leetcode/tree/master/2491-smallest-even-multiple) |
 | [2575-minimum-cuts-to-divide-a-circle](https://github.com/Astitva0809/Leetcode/tree/master/2575-minimum-cuts-to-divide-a-circle) |
 | [2649-count-total-number-of-colored-cells](https://github.com/Astitva0809/Leetcode/tree/master/2649-count-total-number-of-colored-cells) |
@@ -375,6 +376,7 @@ Leetcode solutions
 | [0863-sum-of-distances-in-tree](https://github.com/Astitva0809/Leetcode/tree/master/0863-sum-of-distances-in-tree) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Astitva0809/Leetcode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0954-maximum-sum-circular-subarray](https://github.com/Astitva0809/Leetcode/tree/master/0954-maximum-sum-circular-subarray) |
+| [1086-divisor-game](https://github.com/Astitva0809/Leetcode/tree/master/1086-divisor-game) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Astitva0809/Leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1503-reducing-dishes](https://github.com/Astitva0809/Leetcode/tree/master/1503-reducing-dishes) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Astitva0809/Leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
@@ -678,4 +680,12 @@ Leetcode solutions
 |  |
 | ------- |
 | [3201-distribute-candies-among-children-ii](https://github.com/Astitva0809/Leetcode/tree/master/3201-distribute-candies-among-children-ii) |
+## Brainteaser
+|  |
+| ------- |
+| [1086-divisor-game](https://github.com/Astitva0809/Leetcode/tree/master/1086-divisor-game) |
+## Game Theory
+|  |
+| ------- |
+| [1086-divisor-game](https://github.com/Astitva0809/Leetcode/tree/master/1086-divisor-game) |
 <!---LeetCode Topics End-->
