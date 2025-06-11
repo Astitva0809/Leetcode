@@ -23,6 +23,7 @@ Leetcode solutions
 | [0135-candy](https://github.com/Astitva0809/Leetcode/tree/master/0135-candy) |
 | [0219-contains-duplicate-ii](https://github.com/Astitva0809/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0324-wiggle-sort-ii](https://github.com/Astitva0809/Leetcode/tree/master/0324-wiggle-sort-ii) |
+| [0403-frog-jump](https://github.com/Astitva0809/Leetcode/tree/master/0403-frog-jump) |
 | [0413-arithmetic-slices](https://github.com/Astitva0809/Leetcode/tree/master/0413-arithmetic-slices) |
 | [0416-partition-equal-subset-sum](https://github.com/Astitva0809/Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Astitva0809/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -371,6 +372,7 @@ Leetcode solutions
 | [0118-pascals-triangle](https://github.com/Astitva0809/Leetcode/tree/master/0118-pascals-triangle) |
 | [0131-palindrome-partitioning](https://github.com/Astitva0809/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0397-integer-replacement](https://github.com/Astitva0809/Leetcode/tree/master/0397-integer-replacement) |
+| [0403-frog-jump](https://github.com/Astitva0809/Leetcode/tree/master/0403-frog-jump) |
 | [0413-arithmetic-slices](https://github.com/Astitva0809/Leetcode/tree/master/0413-arithmetic-slices) |
 | [0416-partition-equal-subset-sum](https://github.com/Astitva0809/Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/Astitva0809/Leetcode/tree/master/0494-target-sum) |
