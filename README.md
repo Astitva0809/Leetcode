@@ -279,6 +279,7 @@ Leetcode solutions
 | [3321-type-of-triangle](https://github.com/Astitva0809/Leetcode/tree/master/3321-type-of-triangle) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Astitva0809/Leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/Astitva0809/Leetcode/tree/master/3676-smallest-number-with-all-set-bits) |
+| [3682-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/Astitva0809/Leetcode/tree/master/3682-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
 | [3830-find-closest-person](https://github.com/Astitva0809/Leetcode/tree/master/3830-find-closest-person) |
 | [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Astitva0809/Leetcode/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3859-maximum-product-of-two-digits](https://github.com/Astitva0809/Leetcode/tree/master/3859-maximum-product-of-two-digits) |
@@ -692,6 +693,7 @@ Leetcode solutions
 |  |
 | ------- |
 | [3201-distribute-candies-among-children-ii](https://github.com/Astitva0809/Leetcode/tree/master/3201-distribute-candies-among-children-ii) |
+| [3682-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/Astitva0809/Leetcode/tree/master/3682-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
 ## Brainteaser
 |  |
 | ------- |
