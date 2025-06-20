@@ -211,6 +211,7 @@ Leetcode solutions
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/Astitva0809/Leetcode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 | [3709-find-special-substring-of-length-k](https://github.com/Astitva0809/Leetcode/tree/master/3709-find-special-substring-of-length-k) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Astitva0809/Leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
+| [3754-maximum-manhattan-distance-after-k-changes](https://github.com/Astitva0809/Leetcode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3871-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/Astitva0809/Leetcode/tree/master/3871-minimum-deletions-for-at-most-k-distinct-characters) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Astitva0809/Leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Greedy
@@ -284,6 +285,7 @@ Leetcode solutions
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Astitva0809/Leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/Astitva0809/Leetcode/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3682-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/Astitva0809/Leetcode/tree/master/3682-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
+| [3754-maximum-manhattan-distance-after-k-changes](https://github.com/Astitva0809/Leetcode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3830-find-closest-person](https://github.com/Astitva0809/Leetcode/tree/master/3830-find-closest-person) |
 | [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Astitva0809/Leetcode/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3859-maximum-product-of-two-digits](https://github.com/Astitva0809/Leetcode/tree/master/3859-maximum-product-of-two-digits) |
@@ -338,6 +340,7 @@ Leetcode solutions
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Astitva0809/Leetcode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3594-identify-the-largest-outlier-in-an-array](https://github.com/Astitva0809/Leetcode/tree/master/3594-identify-the-largest-outlier-in-an-array) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Astitva0809/Leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
+| [3754-maximum-manhattan-distance-after-k-changes](https://github.com/Astitva0809/Leetcode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3871-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/Astitva0809/Leetcode/tree/master/3871-minimum-deletions-for-at-most-k-distinct-characters) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Astitva0809/Leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Sorting
@@ -571,6 +574,7 @@ Leetcode solutions
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Astitva0809/Leetcode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [3594-identify-the-largest-outlier-in-an-array](https://github.com/Astitva0809/Leetcode/tree/master/3594-identify-the-largest-outlier-in-an-array) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Astitva0809/Leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
+| [3754-maximum-manhattan-distance-after-k-changes](https://github.com/Astitva0809/Leetcode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3871-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/Astitva0809/Leetcode/tree/master/3871-minimum-deletions-for-at-most-k-distinct-characters) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Astitva0809/Leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Prefix Sum
