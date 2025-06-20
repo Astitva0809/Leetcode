@@ -265,6 +265,7 @@ Leetcode solutions
 | [0367-valid-perfect-square](https://github.com/Astitva0809/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0371-sum-of-two-integers](https://github.com/Astitva0809/Leetcode/tree/master/0371-sum-of-two-integers) |
 | [0412-fizz-buzz](https://github.com/Astitva0809/Leetcode/tree/master/0412-fizz-buzz) |
+| [0441-arranging-coins](https://github.com/Astitva0809/Leetcode/tree/master/0441-arranging-coins) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Astitva0809/Leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0670-maximum-swap](https://github.com/Astitva0809/Leetcode/tree/master/0670-maximum-swap) |
 | [0804-rotated-digits](https://github.com/Astitva0809/Leetcode/tree/master/0804-rotated-digits) |
@@ -418,6 +419,7 @@ Leetcode solutions
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Astitva0809/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0278-first-bad-version](https://github.com/Astitva0809/Leetcode/tree/master/0278-first-bad-version) |
 | [0367-valid-perfect-square](https://github.com/Astitva0809/Leetcode/tree/master/0367-valid-perfect-square) |
+| [0441-arranging-coins](https://github.com/Astitva0809/Leetcode/tree/master/0441-arranging-coins) |
 | [0456-132-pattern](https://github.com/Astitva0809/Leetcode/tree/master/0456-132-pattern) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/Astitva0809/Leetcode/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Astitva0809/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
