@@ -23,6 +23,7 @@ Leetcode solutions
 | [0135-candy](https://github.com/Astitva0809/Leetcode/tree/master/0135-candy) |
 | [0219-contains-duplicate-ii](https://github.com/Astitva0809/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0324-wiggle-sort-ii](https://github.com/Astitva0809/Leetcode/tree/master/0324-wiggle-sort-ii) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Astitva0809/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0403-frog-jump](https://github.com/Astitva0809/Leetcode/tree/master/0403-frog-jump) |
 | [0413-arithmetic-slices](https://github.com/Astitva0809/Leetcode/tree/master/0413-arithmetic-slices) |
 | [0416-partition-equal-subset-sum](https://github.com/Astitva0809/Leetcode/tree/master/0416-partition-equal-subset-sum) |
@@ -298,6 +299,7 @@ Leetcode solutions
 | ------- |
 | [0048-rotate-image](https://github.com/Astitva0809/Leetcode/tree/master/0048-rotate-image) |
 | [0059-spiral-matrix-ii](https://github.com/Astitva0809/Leetcode/tree/master/0059-spiral-matrix-ii) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Astitva0809/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0498-diagonal-traverse](https://github.com/Astitva0809/Leetcode/tree/master/0498-diagonal-traverse) |
 | [1036-rotting-oranges](https://github.com/Astitva0809/Leetcode/tree/master/1036-rotting-oranges) |
 | [1324-where-will-the-ball-fall](https://github.com/Astitva0809/Leetcode/tree/master/1324-where-will-the-ball-fall) |
@@ -344,6 +346,7 @@ Leetcode solutions
 | [0049-group-anagrams](https://github.com/Astitva0809/Leetcode/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/Astitva0809/Leetcode/tree/master/0075-sort-colors) |
 | [0324-wiggle-sort-ii](https://github.com/Astitva0809/Leetcode/tree/master/0324-wiggle-sort-ii) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Astitva0809/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0451-sort-characters-by-frequency](https://github.com/Astitva0809/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/Astitva0809/Leetcode/tree/master/0455-assign-cookies) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Astitva0809/Leetcode/tree/master/0780-max-chunks-to-make-sorted) |
@@ -419,6 +422,7 @@ Leetcode solutions
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Astitva0809/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0278-first-bad-version](https://github.com/Astitva0809/Leetcode/tree/master/0278-first-bad-version) |
 | [0367-valid-perfect-square](https://github.com/Astitva0809/Leetcode/tree/master/0367-valid-perfect-square) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Astitva0809/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0441-arranging-coins](https://github.com/Astitva0809/Leetcode/tree/master/0441-arranging-coins) |
 | [0456-132-pattern](https://github.com/Astitva0809/Leetcode/tree/master/0456-132-pattern) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/Astitva0809/Leetcode/tree/master/1335-maximum-candies-allocated-to-k-children) |
@@ -531,6 +535,7 @@ Leetcode solutions
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Astitva0809/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0451-sort-characters-by-frequency](https://github.com/Astitva0809/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [1304-longest-happy-string](https://github.com/Astitva0809/Leetcode/tree/master/1304-longest-happy-string) |
 | [2164-two-best-non-overlapping-events](https://github.com/Astitva0809/Leetcode/tree/master/2164-two-best-non-overlapping-events) |
