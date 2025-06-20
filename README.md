@@ -416,6 +416,7 @@ Leetcode solutions
 |  |
 | ------- |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Astitva0809/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0278-first-bad-version](https://github.com/Astitva0809/Leetcode/tree/master/0278-first-bad-version) |
 | [0367-valid-perfect-square](https://github.com/Astitva0809/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0456-132-pattern](https://github.com/Astitva0809/Leetcode/tree/master/0456-132-pattern) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/Astitva0809/Leetcode/tree/master/1335-maximum-candies-allocated-to-k-children) |
@@ -705,4 +706,8 @@ Leetcode solutions
 |  |
 | ------- |
 | [1086-divisor-game](https://github.com/Astitva0809/Leetcode/tree/master/1086-divisor-game) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/Astitva0809/Leetcode/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
