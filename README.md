@@ -276,6 +276,7 @@ Leetcode solutions
 | [1033-broken-calculator](https://github.com/Astitva0809/Leetcode/tree/master/1033-broken-calculator) |
 | [1086-divisor-game](https://github.com/Astitva0809/Leetcode/tree/master/1086-divisor-game) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/Astitva0809/Leetcode/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
+| [2202-sum-of-k-mirror-numbers](https://github.com/Astitva0809/Leetcode/tree/master/2202-sum-of-k-mirror-numbers) |
 | [2491-smallest-even-multiple](https://github.com/Astitva0809/Leetcode/tree/master/2491-smallest-even-multiple) |
 | [2575-minimum-cuts-to-divide-a-circle](https://github.com/Astitva0809/Leetcode/tree/master/2575-minimum-cuts-to-divide-a-circle) |
 | [2649-count-total-number-of-colored-cells](https://github.com/Astitva0809/Leetcode/tree/master/2649-count-total-number-of-colored-cells) |
@@ -562,6 +563,7 @@ Leetcode solutions
 |  |
 | ------- |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Astitva0809/Leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+| [2202-sum-of-k-mirror-numbers](https://github.com/Astitva0809/Leetcode/tree/master/2202-sum-of-k-mirror-numbers) |
 | [2844-sum-of-squares-of-special-elements](https://github.com/Astitva0809/Leetcode/tree/master/2844-sum-of-squares-of-special-elements) |
 | [2873-prime-pairs-with-target-sum](https://github.com/Astitva0809/Leetcode/tree/master/2873-prime-pairs-with-target-sum) |
 | [3201-distribute-candies-among-children-ii](https://github.com/Astitva0809/Leetcode/tree/master/3201-distribute-candies-among-children-ii) |
