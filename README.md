@@ -73,6 +73,7 @@ Leetcode solutions
 | [2212-removing-minimum-and-maximum-from-array](https://github.com/Astitva0809/Leetcode/tree/master/2212-removing-minimum-and-maximum-from-array) |
 | [2232-adding-spaces-to-a-string](https://github.com/Astitva0809/Leetcode/tree/master/2232-adding-spaces-to-a-string) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Astitva0809/Leetcode/tree/master/2292-counting-words-with-a-given-prefix) |
+| [2320-find-all-k-distant-indices-in-an-array](https://github.com/Astitva0809/Leetcode/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Astitva0809/Leetcode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2358-number-of-ways-to-split-array](https://github.com/Astitva0809/Leetcode/tree/master/2358-number-of-ways-to-split-array) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/Astitva0809/Leetcode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
@@ -154,6 +155,7 @@ Leetcode solutions
 | [1894-merge-strings-alternately](https://github.com/Astitva0809/Leetcode/tree/master/1894-merge-strings-alternately) |
 | [2232-adding-spaces-to-a-string](https://github.com/Astitva0809/Leetcode/tree/master/2232-adding-spaces-to-a-string) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/Astitva0809/Leetcode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
+| [2320-find-all-k-distant-indices-in-an-array](https://github.com/Astitva0809/Leetcode/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2414-move-pieces-to-obtain-a-string](https://github.com/Astitva0809/Leetcode/tree/master/2414-move-pieces-to-obtain-a-string) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/Astitva0809/Leetcode/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
 | [3195-separate-black-and-white-balls](https://github.com/Astitva0809/Leetcode/tree/master/3195-separate-black-and-white-balls) |
