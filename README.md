@@ -199,6 +199,7 @@ Leetcode solutions
 | [2107-find-unique-binary-string](https://github.com/Astitva0809/Leetcode/tree/master/2107-find-unique-binary-string) |
 | [2232-adding-spaces-to-a-string](https://github.com/Astitva0809/Leetcode/tree/master/2232-adding-spaces-to-a-string) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Astitva0809/Leetcode/tree/master/2292-counting-words-with-a-given-prefix) |
+| [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/Astitva0809/Leetcode/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2414-move-pieces-to-obtain-a-string](https://github.com/Astitva0809/Leetcode/tree/master/2414-move-pieces-to-obtain-a-string) |
 | [2465-shifting-letters-ii](https://github.com/Astitva0809/Leetcode/tree/master/2465-shifting-letters-ii) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/Astitva0809/Leetcode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
@@ -245,6 +246,7 @@ Leetcode solutions
 | [2117-find-original-array-from-doubled-array](https://github.com/Astitva0809/Leetcode/tree/master/2117-find-original-array-from-doubled-array) |
 | [2212-removing-minimum-and-maximum-from-array](https://github.com/Astitva0809/Leetcode/tree/master/2212-removing-minimum-and-maximum-from-array) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/Astitva0809/Leetcode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
+| [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/Astitva0809/Leetcode/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/Astitva0809/Leetcode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Astitva0809/Leetcode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2716-prime-subtraction-operation](https://github.com/Astitva0809/Leetcode/tree/master/2716-prime-subtraction-operation) |
@@ -411,6 +413,7 @@ Leetcode solutions
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/Astitva0809/Leetcode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [2061-painting-a-grid-with-three-different-colors](https://github.com/Astitva0809/Leetcode/tree/master/2061-painting-a-grid-with-three-different-colors) |
 | [2164-two-best-non-overlapping-events](https://github.com/Astitva0809/Leetcode/tree/master/2164-two-best-non-overlapping-events) |
+| [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/Astitva0809/Leetcode/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2554-minimum-total-distance-traveled](https://github.com/Astitva0809/Leetcode/tree/master/2554-minimum-total-distance-traveled) |
 | [2586-longest-square-streak-in-an-array](https://github.com/Astitva0809/Leetcode/tree/master/2586-longest-square-streak-in-an-array) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/Astitva0809/Leetcode/tree/master/2794-maximum-number-of-moves-in-a-grid) |
@@ -563,6 +566,7 @@ Leetcode solutions
 |  |
 | ------- |
 | [0397-integer-replacement](https://github.com/Astitva0809/Leetcode/tree/master/0397-integer-replacement) |
+| [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/Astitva0809/Leetcode/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 ## Enumeration
 |  |
 | ------- |
