@@ -73,6 +73,7 @@ Leetcode solutions
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/Astitva0809/Leetcode/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2164-two-best-non-overlapping-events](https://github.com/Astitva0809/Leetcode/tree/master/2164-two-best-non-overlapping-events) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Astitva0809/Leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+| [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Astitva0809/Leetcode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2212-removing-minimum-and-maximum-from-array](https://github.com/Astitva0809/Leetcode/tree/master/2212-removing-minimum-and-maximum-from-array) |
 | [2232-adding-spaces-to-a-string](https://github.com/Astitva0809/Leetcode/tree/master/2232-adding-spaces-to-a-string) |
 | [2245-destroying-asteroids](https://github.com/Astitva0809/Leetcode/tree/master/2245-destroying-asteroids) |
@@ -342,6 +343,7 @@ Leetcode solutions
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Astitva0809/Leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2107-find-unique-binary-string](https://github.com/Astitva0809/Leetcode/tree/master/2107-find-unique-binary-string) |
 | [2117-find-original-array-from-doubled-array](https://github.com/Astitva0809/Leetcode/tree/master/2117-find-original-array-from-doubled-array) |
+| [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Astitva0809/Leetcode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Astitva0809/Leetcode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/Astitva0809/Leetcode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Astitva0809/Leetcode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -374,6 +376,7 @@ Leetcode solutions
 | [1961-maximum-ice-cream-bars](https://github.com/Astitva0809/Leetcode/tree/master/1961-maximum-ice-cream-bars) |
 | [2117-find-original-array-from-doubled-array](https://github.com/Astitva0809/Leetcode/tree/master/2117-find-original-array-from-doubled-array) |
 | [2164-two-best-non-overlapping-events](https://github.com/Astitva0809/Leetcode/tree/master/2164-two-best-non-overlapping-events) |
+| [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Astitva0809/Leetcode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2245-destroying-asteroids](https://github.com/Astitva0809/Leetcode/tree/master/2245-destroying-asteroids) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/Astitva0809/Leetcode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2554-minimum-total-distance-traveled](https://github.com/Astitva0809/Leetcode/tree/master/2554-minimum-total-distance-traveled) |
@@ -561,6 +564,7 @@ Leetcode solutions
 | [0451-sort-characters-by-frequency](https://github.com/Astitva0809/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [1304-longest-happy-string](https://github.com/Astitva0809/Leetcode/tree/master/1304-longest-happy-string) |
 | [2164-two-best-non-overlapping-events](https://github.com/Astitva0809/Leetcode/tree/master/2164-two-best-non-overlapping-events) |
+| [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Astitva0809/Leetcode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/Astitva0809/Leetcode/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2868-continuous-subarrays](https://github.com/Astitva0809/Leetcode/tree/master/2868-continuous-subarrays) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Astitva0809/Leetcode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
