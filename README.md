@@ -219,6 +219,7 @@ Leetcode solutions
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Astitva0809/Leetcode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3451-string-compression-iii](https://github.com/Astitva0809/Leetcode/tree/master/3451-string-compression-iii) |
 | [3617-find-the-original-typed-string-i](https://github.com/Astitva0809/Leetcode/tree/master/3617-find-the-original-typed-string-i) |
+| [3618-find-the-original-typed-string-ii](https://github.com/Astitva0809/Leetcode/tree/master/3618-find-the-original-typed-string-ii) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/Astitva0809/Leetcode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 | [3709-find-special-substring-of-length-k](https://github.com/Astitva0809/Leetcode/tree/master/3709-find-special-substring-of-length-k) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Astitva0809/Leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
@@ -431,6 +432,7 @@ Leetcode solutions
 | [2586-longest-square-streak-in-an-array](https://github.com/Astitva0809/Leetcode/tree/master/2586-longest-square-streak-in-an-array) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/Astitva0809/Leetcode/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Astitva0809/Leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
+| [3618-find-the-original-typed-string-ii](https://github.com/Astitva0809/Leetcode/tree/master/3618-find-the-original-typed-string-ii) |
 ## Simulation
 |  |
 | ------- |
@@ -622,6 +624,7 @@ Leetcode solutions
 | [2691-count-vowel-strings-in-ranges](https://github.com/Astitva0809/Leetcode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2878-apply-operations-to-make-all-array-elements-equal-to-zero](https://github.com/Astitva0809/Leetcode/tree/master/2878-apply-operations-to-make-all-array-elements-equal-to-zero) |
 | [3427-special-array-ii](https://github.com/Astitva0809/Leetcode/tree/master/3427-special-array-ii) |
+| [3618-find-the-original-typed-string-ii](https://github.com/Astitva0809/Leetcode/tree/master/3618-find-the-original-typed-string-ii) |
 | [3644-minimum-positive-sum-subarray](https://github.com/Astitva0809/Leetcode/tree/master/3644-minimum-positive-sum-subarray) |
 | [3731-sum-of-variable-length-subarrays](https://github.com/Astitva0809/Leetcode/tree/master/3731-sum-of-variable-length-subarrays) |
 ## Breadth-First Search
