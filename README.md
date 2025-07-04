@@ -145,6 +145,7 @@ Leetcode solutions
 | [3291-find-if-array-can-be-sorted](https://github.com/Astitva0809/Leetcode/tree/master/3291-find-if-array-can-be-sorted) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/Astitva0809/Leetcode/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3394-minimum-array-end](https://github.com/Astitva0809/Leetcode/tree/master/3394-minimum-array-end) |
+| [3601-find-the-k-th-character-in-string-game-ii](https://github.com/Astitva0809/Leetcode/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/Astitva0809/Leetcode/tree/master/3676-smallest-number-with-all-set-bits) |
 ## Two Pointers
 |  |
@@ -299,6 +300,7 @@ Leetcode solutions
 | [3201-distribute-candies-among-children-ii](https://github.com/Astitva0809/Leetcode/tree/master/3201-distribute-candies-among-children-ii) |
 | [3321-type-of-triangle](https://github.com/Astitva0809/Leetcode/tree/master/3321-type-of-triangle) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Astitva0809/Leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
+| [3601-find-the-k-th-character-in-string-game-ii](https://github.com/Astitva0809/Leetcode/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/Astitva0809/Leetcode/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3682-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/Astitva0809/Leetcode/tree/master/3682-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/Astitva0809/Leetcode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
@@ -312,6 +314,7 @@ Leetcode solutions
 | [0050-powx-n](https://github.com/Astitva0809/Leetcode/tree/master/0050-powx-n) |
 | [1197-parsing-a-boolean-expression](https://github.com/Astitva0809/Leetcode/tree/master/1197-parsing-a-boolean-expression) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/Astitva0809/Leetcode/tree/master/1667-find-kth-bit-in-nth-binary-string) |
+| [3601-find-the-k-th-character-in-string-game-ii](https://github.com/Astitva0809/Leetcode/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 ## Matrix
 |  |
 | ------- |
