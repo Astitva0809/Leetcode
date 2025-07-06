@@ -69,6 +69,7 @@ Leetcode solutions
 | [1940-maximum-xor-for-each-query](https://github.com/Astitva0809/Leetcode/tree/master/1940-maximum-xor-for-each-query) |
 | [1961-maximum-ice-cream-bars](https://github.com/Astitva0809/Leetcode/tree/master/1961-maximum-ice-cream-bars) |
 | [1983-maximum-population-year](https://github.com/Astitva0809/Leetcode/tree/master/1983-maximum-population-year) |
+| [1995-finding-pairs-with-a-certain-sum](https://github.com/Astitva0809/Leetcode/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2020-remove-one-element-to-make-the-array-strictly-increasing](https://github.com/Astitva0809/Leetcode/tree/master/2020-remove-one-element-to-make-the-array-strictly-increasing) |
 | [2107-find-unique-binary-string](https://github.com/Astitva0809/Leetcode/tree/master/2107-find-unique-binary-string) |
 | [2117-find-original-array-from-doubled-array](https://github.com/Astitva0809/Leetcode/tree/master/2117-find-original-array-from-doubled-array) |
@@ -348,6 +349,7 @@ Leetcode solutions
 | [1510-find-lucky-integer-in-an-array](https://github.com/Astitva0809/Leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1752-arithmetic-subarrays](https://github.com/Astitva0809/Leetcode/tree/master/1752-arithmetic-subarrays) |
 | [1770-minimum-deletions-to-make-character-frequencies-unique](https://github.com/Astitva0809/Leetcode/tree/master/1770-minimum-deletions-to-make-character-frequencies-unique) |
+| [1995-finding-pairs-with-a-certain-sum](https://github.com/Astitva0809/Leetcode/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Astitva0809/Leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2107-find-unique-binary-string](https://github.com/Astitva0809/Leetcode/tree/master/2107-find-unique-binary-string) |
 | [2117-find-original-array-from-doubled-array](https://github.com/Astitva0809/Leetcode/tree/master/2117-find-original-array-from-doubled-array) |
@@ -768,4 +770,5 @@ Leetcode solutions
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Astitva0809/Leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Astitva0809/Leetcode/tree/master/0232-implement-queue-using-stacks) |
+| [1995-finding-pairs-with-a-certain-sum](https://github.com/Astitva0809/Leetcode/tree/master/1995-finding-pairs-with-a-certain-sum) |
 <!---LeetCode Topics End-->
