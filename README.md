@@ -55,6 +55,7 @@ Leetcode solutions
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Astitva0809/Leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/Astitva0809/Leetcode/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Astitva0809/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Astitva0809/Leetcode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1503-reducing-dishes](https://github.com/Astitva0809/Leetcode/tree/master/1503-reducing-dishes) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Astitva0809/Leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1524-string-matching-in-an-array](https://github.com/Astitva0809/Leetcode/tree/master/1524-string-matching-in-an-array) |
@@ -246,6 +247,7 @@ Leetcode solutions
 | [1033-broken-calculator](https://github.com/Astitva0809/Leetcode/tree/master/1033-broken-calculator) |
 | [1252-break-a-palindrome](https://github.com/Astitva0809/Leetcode/tree/master/1252-break-a-palindrome) |
 | [1304-longest-happy-string](https://github.com/Astitva0809/Leetcode/tree/master/1304-longest-happy-string) |
+| [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Astitva0809/Leetcode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1502-construct-k-palindrome-strings](https://github.com/Astitva0809/Leetcode/tree/master/1502-construct-k-palindrome-strings) |
 | [1503-reducing-dishes](https://github.com/Astitva0809/Leetcode/tree/master/1503-reducing-dishes) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/Astitva0809/Leetcode/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
@@ -380,6 +382,7 @@ Leetcode solutions
 | [0780-max-chunks-to-make-sorted](https://github.com/Astitva0809/Leetcode/tree/master/0780-max-chunks-to-make-sorted) |
 | [0991-array-of-doubled-pairs](https://github.com/Astitva0809/Leetcode/tree/master/0991-array-of-doubled-pairs) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Astitva0809/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Astitva0809/Leetcode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1503-reducing-dishes](https://github.com/Astitva0809/Leetcode/tree/master/1503-reducing-dishes) |
 | [1752-arithmetic-subarrays](https://github.com/Astitva0809/Leetcode/tree/master/1752-arithmetic-subarrays) |
 | [1770-minimum-deletions-to-make-character-frequencies-unique](https://github.com/Astitva0809/Leetcode/tree/master/1770-minimum-deletions-to-make-character-frequencies-unique) |
@@ -578,6 +581,7 @@ Leetcode solutions
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Astitva0809/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0451-sort-characters-by-frequency](https://github.com/Astitva0809/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [1304-longest-happy-string](https://github.com/Astitva0809/Leetcode/tree/master/1304-longest-happy-string) |
+| [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Astitva0809/Leetcode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [2164-two-best-non-overlapping-events](https://github.com/Astitva0809/Leetcode/tree/master/2164-two-best-non-overlapping-events) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Astitva0809/Leetcode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/Astitva0809/Leetcode/tree/master/2692-take-gifts-from-the-richest-pile) |
