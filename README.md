@@ -117,6 +117,7 @@ Leetcode solutions
 | [3644-minimum-positive-sum-subarray](https://github.com/Astitva0809/Leetcode/tree/master/3644-minimum-positive-sum-subarray) |
 | [3712-minimum-cost-to-make-arrays-identical](https://github.com/Astitva0809/Leetcode/tree/master/3712-minimum-cost-to-make-arrays-identical) |
 | [3731-sum-of-variable-length-subarrays](https://github.com/Astitva0809/Leetcode/tree/master/3731-sum-of-variable-length-subarrays) |
+| [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/Astitva0809/Leetcode/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/Astitva0809/Leetcode/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Astitva0809/Leetcode/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## Backtracking
@@ -271,6 +272,7 @@ Leetcode solutions
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/Astitva0809/Leetcode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Astitva0809/Leetcode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3712-minimum-cost-to-make-arrays-identical](https://github.com/Astitva0809/Leetcode/tree/master/3712-minimum-cost-to-make-arrays-identical) |
+| [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/Astitva0809/Leetcode/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 | [3871-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/Astitva0809/Leetcode/tree/master/3871-minimum-deletions-for-at-most-k-distinct-characters) |
 ## Linked List
 |  |
@@ -717,6 +719,7 @@ Leetcode solutions
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/Astitva0809/Leetcode/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/Astitva0809/Leetcode/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 | [3644-minimum-positive-sum-subarray](https://github.com/Astitva0809/Leetcode/tree/master/3644-minimum-positive-sum-subarray) |
+| [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/Astitva0809/Leetcode/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 ## Number Theory
 |  |
 | ------- |
