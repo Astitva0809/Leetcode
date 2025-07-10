@@ -120,6 +120,7 @@ Leetcode solutions
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/Astitva0809/Leetcode/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/Astitva0809/Leetcode/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Astitva0809/Leetcode/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3934-coupon-code-validator](https://github.com/Astitva0809/Leetcode/tree/master/3934-coupon-code-validator) |
 ## Backtracking
 |  |
 | ------- |
@@ -233,6 +234,7 @@ Leetcode solutions
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/Astitva0809/Leetcode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3871-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/Astitva0809/Leetcode/tree/master/3871-minimum-deletions-for-at-most-k-distinct-characters) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Astitva0809/Leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
+| [3934-coupon-code-validator](https://github.com/Astitva0809/Leetcode/tree/master/3934-coupon-code-validator) |
 ## Greedy
 |  |
 | ------- |
@@ -374,6 +376,7 @@ Leetcode solutions
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/Astitva0809/Leetcode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3871-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/Astitva0809/Leetcode/tree/master/3871-minimum-deletions-for-at-most-k-distinct-characters) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Astitva0809/Leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
+| [3934-coupon-code-validator](https://github.com/Astitva0809/Leetcode/tree/master/3934-coupon-code-validator) |
 ## Sorting
 |  |
 | ------- |
@@ -407,6 +410,7 @@ Leetcode solutions
 | [3712-minimum-cost-to-make-arrays-identical](https://github.com/Astitva0809/Leetcode/tree/master/3712-minimum-cost-to-make-arrays-identical) |
 | [3859-maximum-product-of-two-digits](https://github.com/Astitva0809/Leetcode/tree/master/3859-maximum-product-of-two-digits) |
 | [3871-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/Astitva0809/Leetcode/tree/master/3871-minimum-deletions-for-at-most-k-distinct-characters) |
+| [3934-coupon-code-validator](https://github.com/Astitva0809/Leetcode/tree/master/3934-coupon-code-validator) |
 ## Divide and Conquer
 |  |
 | ------- |
