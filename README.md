@@ -90,6 +90,7 @@ Leetcode solutions
 | [2358-number-of-ways-to-split-array](https://github.com/Astitva0809/Leetcode/tree/master/2358-number-of-ways-to-split-array) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/Astitva0809/Leetcode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2465-shifting-letters-ii](https://github.com/Astitva0809/Leetcode/tree/master/2465-shifting-letters-ii) |
+| [2479-meeting-rooms-iii](https://github.com/Astitva0809/Leetcode/tree/master/2479-meeting-rooms-iii) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/Astitva0809/Leetcode/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Astitva0809/Leetcode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2554-minimum-total-distance-traveled](https://github.com/Astitva0809/Leetcode/tree/master/2554-minimum-total-distance-traveled) |
@@ -367,6 +368,7 @@ Leetcode solutions
 | [2117-find-original-array-from-doubled-array](https://github.com/Astitva0809/Leetcode/tree/master/2117-find-original-array-from-doubled-array) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Astitva0809/Leetcode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Astitva0809/Leetcode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
+| [2479-meeting-rooms-iii](https://github.com/Astitva0809/Leetcode/tree/master/2479-meeting-rooms-iii) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/Astitva0809/Leetcode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Astitva0809/Leetcode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2586-longest-square-streak-in-an-array](https://github.com/Astitva0809/Leetcode/tree/master/2586-longest-square-streak-in-an-array) |
@@ -404,6 +406,7 @@ Leetcode solutions
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Astitva0809/Leetcode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2245-destroying-asteroids](https://github.com/Astitva0809/Leetcode/tree/master/2245-destroying-asteroids) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/Astitva0809/Leetcode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
+| [2479-meeting-rooms-iii](https://github.com/Astitva0809/Leetcode/tree/master/2479-meeting-rooms-iii) |
 | [2554-minimum-total-distance-traveled](https://github.com/Astitva0809/Leetcode/tree/master/2554-minimum-total-distance-traveled) |
 | [2586-longest-square-streak-in-an-array](https://github.com/Astitva0809/Leetcode/tree/master/2586-longest-square-streak-in-an-array) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Astitva0809/Leetcode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
@@ -467,6 +470,7 @@ Leetcode solutions
 | [1324-where-will-the-ball-fall](https://github.com/Astitva0809/Leetcode/tree/master/1324-where-will-the-ball-fall) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/Astitva0809/Leetcode/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [2232-adding-spaces-to-a-string](https://github.com/Astitva0809/Leetcode/tree/master/2232-adding-spaces-to-a-string) |
+| [2479-meeting-rooms-iii](https://github.com/Astitva0809/Leetcode/tree/master/2479-meeting-rooms-iii) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/Astitva0809/Leetcode/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [3320-maximum-number-of-operations-with-the-same-score-i](https://github.com/Astitva0809/Leetcode/tree/master/3320-maximum-number-of-operations-with-the-same-score-i) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Astitva0809/Leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
@@ -603,6 +607,7 @@ Leetcode solutions
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Astitva0809/Leetcode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [2164-two-best-non-overlapping-events](https://github.com/Astitva0809/Leetcode/tree/master/2164-two-best-non-overlapping-events) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Astitva0809/Leetcode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
+| [2479-meeting-rooms-iii](https://github.com/Astitva0809/Leetcode/tree/master/2479-meeting-rooms-iii) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/Astitva0809/Leetcode/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2868-continuous-subarrays](https://github.com/Astitva0809/Leetcode/tree/master/2868-continuous-subarrays) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Astitva0809/Leetcode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
