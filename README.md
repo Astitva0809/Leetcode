@@ -93,6 +93,7 @@ Leetcode solutions
 | [2465-shifting-letters-ii](https://github.com/Astitva0809/Leetcode/tree/master/2465-shifting-letters-ii) |
 | [2479-meeting-rooms-iii](https://github.com/Astitva0809/Leetcode/tree/master/2479-meeting-rooms-iii) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Astitva0809/Leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
+| [2519-find-the-original-array-of-prefix-xor](https://github.com/Astitva0809/Leetcode/tree/master/2519-find-the-original-array-of-prefix-xor) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/Astitva0809/Leetcode/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Astitva0809/Leetcode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2554-minimum-total-distance-traveled](https://github.com/Astitva0809/Leetcode/tree/master/2554-minimum-total-distance-traveled) |
@@ -157,6 +158,7 @@ Leetcode solutions
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Astitva0809/Leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Astitva0809/Leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Astitva0809/Leetcode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
+| [2519-find-the-original-array-of-prefix-xor](https://github.com/Astitva0809/Leetcode/tree/master/2519-find-the-original-array-of-prefix-xor) |
 | [2792-neighboring-bitwise-xor](https://github.com/Astitva0809/Leetcode/tree/master/2792-neighboring-bitwise-xor) |
 | [3291-find-if-array-can-be-sorted](https://github.com/Astitva0809/Leetcode/tree/master/3291-find-if-array-can-be-sorted) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/Astitva0809/Leetcode/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
