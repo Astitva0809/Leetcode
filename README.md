@@ -156,6 +156,7 @@ Leetcode solutions
 | [0800-letter-case-permutation](https://github.com/Astitva0809/Leetcode/tree/master/0800-letter-case-permutation) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Astitva0809/Leetcode/tree/master/1435-xor-queries-of-a-subarray) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/Astitva0809/Leetcode/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
+| [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Astitva0809/Leetcode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/Astitva0809/Leetcode/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 | [1940-maximum-xor-for-each-query](https://github.com/Astitva0809/Leetcode/tree/master/1940-maximum-xor-for-each-query) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Astitva0809/Leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
@@ -215,6 +216,7 @@ Leetcode solutions
 | [1302-delete-characters-to-make-fancy-string](https://github.com/Astitva0809/Leetcode/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1304-longest-happy-string](https://github.com/Astitva0809/Leetcode/tree/master/1304-longest-happy-string) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Astitva0809/Leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Astitva0809/Leetcode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1502-construct-k-palindrome-strings](https://github.com/Astitva0809/Leetcode/tree/master/1502-construct-k-palindrome-strings) |
 | [1524-string-matching-in-an-array](https://github.com/Astitva0809/Leetcode/tree/master/1524-string-matching-in-an-array) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Astitva0809/Leetcode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
@@ -378,6 +380,7 @@ Leetcode solutions
 | [1207-delete-nodes-and-return-forest](https://github.com/Astitva0809/Leetcode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1364-tuple-with-same-product](https://github.com/Astitva0809/Leetcode/tree/master/1364-tuple-with-same-product) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Astitva0809/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Astitva0809/Leetcode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1502-construct-k-palindrome-strings](https://github.com/Astitva0809/Leetcode/tree/master/1502-construct-k-palindrome-strings) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Astitva0809/Leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1752-arithmetic-subarrays](https://github.com/Astitva0809/Leetcode/tree/master/1752-arithmetic-subarrays) |
@@ -684,6 +687,7 @@ Leetcode solutions
 | [0525-contiguous-array](https://github.com/Astitva0809/Leetcode/tree/master/0525-contiguous-array) |
 | [0878-shifting-letters](https://github.com/Astitva0809/Leetcode/tree/master/0878-shifting-letters) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Astitva0809/Leetcode/tree/master/1435-xor-queries-of-a-subarray) |
+| [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Astitva0809/Leetcode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1603-running-sum-of-1d-array](https://github.com/Astitva0809/Leetcode/tree/master/1603-running-sum-of-1d-array) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Astitva0809/Leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1940-maximum-xor-for-each-query](https://github.com/Astitva0809/Leetcode/tree/master/1940-maximum-xor-for-each-query) |
