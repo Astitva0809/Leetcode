@@ -55,6 +55,7 @@ Leetcode solutions
 | [1364-tuple-with-same-product](https://github.com/Astitva0809/Leetcode/tree/master/1364-tuple-with-same-product) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Astitva0809/Leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/Astitva0809/Leetcode/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
+| [1435-xor-queries-of-a-subarray](https://github.com/Astitva0809/Leetcode/tree/master/1435-xor-queries-of-a-subarray) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/Astitva0809/Leetcode/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Astitva0809/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Astitva0809/Leetcode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
@@ -153,6 +154,7 @@ Leetcode solutions
 | [0371-sum-of-two-integers](https://github.com/Astitva0809/Leetcode/tree/master/0371-sum-of-two-integers) |
 | [0397-integer-replacement](https://github.com/Astitva0809/Leetcode/tree/master/0397-integer-replacement) |
 | [0800-letter-case-permutation](https://github.com/Astitva0809/Leetcode/tree/master/0800-letter-case-permutation) |
+| [1435-xor-queries-of-a-subarray](https://github.com/Astitva0809/Leetcode/tree/master/1435-xor-queries-of-a-subarray) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/Astitva0809/Leetcode/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/Astitva0809/Leetcode/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 | [1940-maximum-xor-for-each-query](https://github.com/Astitva0809/Leetcode/tree/master/1940-maximum-xor-for-each-query) |
@@ -681,6 +683,7 @@ Leetcode solutions
 | ------- |
 | [0525-contiguous-array](https://github.com/Astitva0809/Leetcode/tree/master/0525-contiguous-array) |
 | [0878-shifting-letters](https://github.com/Astitva0809/Leetcode/tree/master/0878-shifting-letters) |
+| [1435-xor-queries-of-a-subarray](https://github.com/Astitva0809/Leetcode/tree/master/1435-xor-queries-of-a-subarray) |
 | [1603-running-sum-of-1d-array](https://github.com/Astitva0809/Leetcode/tree/master/1603-running-sum-of-1d-array) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Astitva0809/Leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1940-maximum-xor-for-each-query](https://github.com/Astitva0809/Leetcode/tree/master/1940-maximum-xor-for-each-query) |
