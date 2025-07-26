@@ -130,6 +130,7 @@ Leetcode solutions
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/Astitva0809/Leetcode/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/Astitva0809/Leetcode/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/Astitva0809/Leetcode/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
+| [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/Astitva0809/Leetcode/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 | [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Astitva0809/Leetcode/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3934-coupon-code-validator](https://github.com/Astitva0809/Leetcode/tree/master/3934-coupon-code-validator) |
 ## Backtracking
@@ -668,6 +669,7 @@ Leetcode solutions
 | [3594-identify-the-largest-outlier-in-an-array](https://github.com/Astitva0809/Leetcode/tree/master/3594-identify-the-largest-outlier-in-an-array) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/Astitva0809/Leetcode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/Astitva0809/Leetcode/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
+| [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/Astitva0809/Leetcode/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 ## Counting
 |  |
 | ------- |
@@ -706,6 +708,7 @@ Leetcode solutions
 | [3618-find-the-original-typed-string-ii](https://github.com/Astitva0809/Leetcode/tree/master/3618-find-the-original-typed-string-ii) |
 | [3644-minimum-positive-sum-subarray](https://github.com/Astitva0809/Leetcode/tree/master/3644-minimum-positive-sum-subarray) |
 | [3731-sum-of-variable-length-subarrays](https://github.com/Astitva0809/Leetcode/tree/master/3731-sum-of-variable-length-subarrays) |
+| [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/Astitva0809/Leetcode/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -845,4 +848,8 @@ Leetcode solutions
 | [0225-implement-stack-using-queues](https://github.com/Astitva0809/Leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Astitva0809/Leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/Astitva0809/Leetcode/tree/master/1995-finding-pairs-with-a-certain-sum) |
+## Segment Tree
+|  |
+| ------- |
+| [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/Astitva0809/Leetcode/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 <!---LeetCode Topics End-->
