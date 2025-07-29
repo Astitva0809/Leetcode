@@ -224,6 +224,7 @@ Leetcode solutions
 | [1252-break-a-palindrome](https://github.com/Astitva0809/Leetcode/tree/master/1252-break-a-palindrome) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/Astitva0809/Leetcode/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1304-longest-happy-string](https://github.com/Astitva0809/Leetcode/tree/master/1304-longest-happy-string) |
+| [1321-get-equal-substrings-within-budget](https://github.com/Astitva0809/Leetcode/tree/master/1321-get-equal-substrings-within-budget) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Astitva0809/Leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Astitva0809/Leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Astitva0809/Leetcode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
@@ -530,6 +531,7 @@ Leetcode solutions
 | [0441-arranging-coins](https://github.com/Astitva0809/Leetcode/tree/master/0441-arranging-coins) |
 | [0456-132-pattern](https://github.com/Astitva0809/Leetcode/tree/master/0456-132-pattern) |
 | [1046-max-consecutive-ones-iii](https://github.com/Astitva0809/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
+| [1321-get-equal-substrings-within-budget](https://github.com/Astitva0809/Leetcode/tree/master/1321-get-equal-substrings-within-budget) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/Astitva0809/Leetcode/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Astitva0809/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/Astitva0809/Leetcode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
@@ -707,6 +709,7 @@ Leetcode solutions
 | [0525-contiguous-array](https://github.com/Astitva0809/Leetcode/tree/master/0525-contiguous-array) |
 | [0878-shifting-letters](https://github.com/Astitva0809/Leetcode/tree/master/0878-shifting-letters) |
 | [1046-max-consecutive-ones-iii](https://github.com/Astitva0809/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
+| [1321-get-equal-substrings-within-budget](https://github.com/Astitva0809/Leetcode/tree/master/1321-get-equal-substrings-within-budget) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Astitva0809/Leetcode/tree/master/1435-xor-queries-of-a-subarray) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Astitva0809/Leetcode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Astitva0809/Leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
@@ -796,6 +799,7 @@ Leetcode solutions
 | [0413-arithmetic-slices](https://github.com/Astitva0809/Leetcode/tree/master/0413-arithmetic-slices) |
 | [0424-longest-repeating-character-replacement](https://github.com/Astitva0809/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [1046-max-consecutive-ones-iii](https://github.com/Astitva0809/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
+| [1321-get-equal-substrings-within-budget](https://github.com/Astitva0809/Leetcode/tree/master/1321-get-equal-substrings-within-budget) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Astitva0809/Leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Astitva0809/Leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Astitva0809/Leetcode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
