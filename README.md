@@ -113,6 +113,7 @@ Leetcode solutions
 | [2792-neighboring-bitwise-xor](https://github.com/Astitva0809/Leetcode/tree/master/2792-neighboring-bitwise-xor) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/Astitva0809/Leetcode/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [2844-sum-of-squares-of-special-elements](https://github.com/Astitva0809/Leetcode/tree/master/2844-sum-of-squares-of-special-elements) |
+| [2856-count-complete-subarrays-in-an-array](https://github.com/Astitva0809/Leetcode/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2868-continuous-subarrays](https://github.com/Astitva0809/Leetcode/tree/master/2868-continuous-subarrays) |
 | [2873-prime-pairs-with-target-sum](https://github.com/Astitva0809/Leetcode/tree/master/2873-prime-pairs-with-target-sum) |
 | [2878-apply-operations-to-make-all-array-elements-equal-to-zero](https://github.com/Astitva0809/Leetcode/tree/master/2878-apply-operations-to-make-all-array-elements-equal-to-zero) |
@@ -416,6 +417,7 @@ Leetcode solutions
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Astitva0809/Leetcode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/Astitva0809/Leetcode/tree/master/2677-cousins-in-binary-tree-ii) |
 | [2685-first-completely-painted-row-or-column](https://github.com/Astitva0809/Leetcode/tree/master/2685-first-completely-painted-row-or-column) |
+| [2856-count-complete-subarrays-in-an-array](https://github.com/Astitva0809/Leetcode/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/Astitva0809/Leetcode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Astitva0809/Leetcode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3594-identify-the-largest-outlier-in-an-array](https://github.com/Astitva0809/Leetcode/tree/master/3594-identify-the-largest-outlier-in-an-array) |
@@ -808,6 +810,7 @@ Leetcode solutions
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Astitva0809/Leetcode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/Astitva0809/Leetcode/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Astitva0809/Leetcode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2856-count-complete-subarrays-in-an-array](https://github.com/Astitva0809/Leetcode/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2868-continuous-subarrays](https://github.com/Astitva0809/Leetcode/tree/master/2868-continuous-subarrays) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/Astitva0809/Leetcode/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/Astitva0809/Leetcode/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
