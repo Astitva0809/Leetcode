@@ -394,6 +394,7 @@ Leetcode solutions
 | [0442-find-all-duplicates-in-an-array](https://github.com/Astitva0809/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/Astitva0809/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0525-contiguous-array](https://github.com/Astitva0809/Leetcode/tree/master/0525-contiguous-array) |
+| [0652-find-duplicate-subtrees](https://github.com/Astitva0809/Leetcode/tree/master/0652-find-duplicate-subtrees) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Astitva0809/Leetcode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0952-word-subsets](https://github.com/Astitva0809/Leetcode/tree/master/0952-word-subsets) |
 | [0991-array-of-doubled-pairs](https://github.com/Astitva0809/Leetcode/tree/master/0991-array-of-doubled-pairs) |
@@ -581,6 +582,7 @@ Leetcode solutions
 | [0450-delete-node-in-a-bst](https://github.com/Astitva0809/Leetcode/tree/master/0450-delete-node-in-a-bst) |
 | [0513-find-bottom-left-tree-value](https://github.com/Astitva0809/Leetcode/tree/master/0513-find-bottom-left-tree-value) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Astitva0809/Leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0652-find-duplicate-subtrees](https://github.com/Astitva0809/Leetcode/tree/master/0652-find-duplicate-subtrees) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/Astitva0809/Leetcode/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0863-sum-of-distances-in-tree](https://github.com/Astitva0809/Leetcode/tree/master/0863-sum-of-distances-in-tree) |
 | [0988-flip-equivalent-binary-trees](https://github.com/Astitva0809/Leetcode/tree/master/0988-flip-equivalent-binary-trees) |
@@ -610,6 +612,7 @@ Leetcode solutions
 | [0514-freedom-trail](https://github.com/Astitva0809/Leetcode/tree/master/0514-freedom-trail) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Astitva0809/Leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0547-number-of-provinces](https://github.com/Astitva0809/Leetcode/tree/master/0547-number-of-provinces) |
+| [0652-find-duplicate-subtrees](https://github.com/Astitva0809/Leetcode/tree/master/0652-find-duplicate-subtrees) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/Astitva0809/Leetcode/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0813-all-paths-from-source-to-target](https://github.com/Astitva0809/Leetcode/tree/master/0813-all-paths-from-source-to-target) |
 | [0863-sum-of-distances-in-tree](https://github.com/Astitva0809/Leetcode/tree/master/0863-sum-of-distances-in-tree) |
@@ -638,6 +641,7 @@ Leetcode solutions
 | [0450-delete-node-in-a-bst](https://github.com/Astitva0809/Leetcode/tree/master/0450-delete-node-in-a-bst) |
 | [0513-find-bottom-left-tree-value](https://github.com/Astitva0809/Leetcode/tree/master/0513-find-bottom-left-tree-value) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Astitva0809/Leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0652-find-duplicate-subtrees](https://github.com/Astitva0809/Leetcode/tree/master/0652-find-duplicate-subtrees) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/Astitva0809/Leetcode/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0988-flip-equivalent-binary-trees](https://github.com/Astitva0809/Leetcode/tree/master/0988-flip-equivalent-binary-trees) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/Astitva0809/Leetcode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
