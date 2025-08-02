@@ -585,6 +585,7 @@ Leetcode solutions
 | [0652-find-duplicate-subtrees](https://github.com/Astitva0809/Leetcode/tree/master/0652-find-duplicate-subtrees) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/Astitva0809/Leetcode/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0863-sum-of-distances-in-tree](https://github.com/Astitva0809/Leetcode/tree/master/0863-sum-of-distances-in-tree) |
+| [0904-leaf-similar-trees](https://github.com/Astitva0809/Leetcode/tree/master/0904-leaf-similar-trees) |
 | [0988-flip-equivalent-binary-trees](https://github.com/Astitva0809/Leetcode/tree/master/0988-flip-equivalent-binary-trees) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/Astitva0809/Leetcode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1207-delete-nodes-and-return-forest](https://github.com/Astitva0809/Leetcode/tree/master/1207-delete-nodes-and-return-forest) |
@@ -616,6 +617,7 @@ Leetcode solutions
 | [0799-minimum-distance-between-bst-nodes](https://github.com/Astitva0809/Leetcode/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0813-all-paths-from-source-to-target](https://github.com/Astitva0809/Leetcode/tree/master/0813-all-paths-from-source-to-target) |
 | [0863-sum-of-distances-in-tree](https://github.com/Astitva0809/Leetcode/tree/master/0863-sum-of-distances-in-tree) |
+| [0904-leaf-similar-trees](https://github.com/Astitva0809/Leetcode/tree/master/0904-leaf-similar-trees) |
 | [0988-flip-equivalent-binary-trees](https://github.com/Astitva0809/Leetcode/tree/master/0988-flip-equivalent-binary-trees) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/Astitva0809/Leetcode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1207-delete-nodes-and-return-forest](https://github.com/Astitva0809/Leetcode/tree/master/1207-delete-nodes-and-return-forest) |
@@ -643,6 +645,7 @@ Leetcode solutions
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Astitva0809/Leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0652-find-duplicate-subtrees](https://github.com/Astitva0809/Leetcode/tree/master/0652-find-duplicate-subtrees) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/Astitva0809/Leetcode/tree/master/0799-minimum-distance-between-bst-nodes) |
+| [0904-leaf-similar-trees](https://github.com/Astitva0809/Leetcode/tree/master/0904-leaf-similar-trees) |
 | [0988-flip-equivalent-binary-trees](https://github.com/Astitva0809/Leetcode/tree/master/0988-flip-equivalent-binary-trees) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/Astitva0809/Leetcode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1207-delete-nodes-and-return-forest](https://github.com/Astitva0809/Leetcode/tree/master/1207-delete-nodes-and-return-forest) |
