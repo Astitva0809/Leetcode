@@ -346,6 +346,7 @@ Leetcode solutions
 | [0486-predict-the-winner](https://github.com/Astitva0809/Leetcode/tree/master/0486-predict-the-winner) |
 | [0670-maximum-swap](https://github.com/Astitva0809/Leetcode/tree/master/0670-maximum-swap) |
 | [0804-rotated-digits](https://github.com/Astitva0809/Leetcode/tree/master/0804-rotated-digits) |
+| [0826-soup-servings](https://github.com/Astitva0809/Leetcode/tree/master/0826-soup-servings) |
 | [1033-broken-calculator](https://github.com/Astitva0809/Leetcode/tree/master/1033-broken-calculator) |
 | [1086-divisor-game](https://github.com/Astitva0809/Leetcode/tree/master/1086-divisor-game) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Astitva0809/Leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
@@ -502,6 +503,7 @@ Leetcode solutions
 | [0514-freedom-trail](https://github.com/Astitva0809/Leetcode/tree/master/0514-freedom-trail) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/Astitva0809/Leetcode/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0804-rotated-digits](https://github.com/Astitva0809/Leetcode/tree/master/0804-rotated-digits) |
+| [0826-soup-servings](https://github.com/Astitva0809/Leetcode/tree/master/0826-soup-servings) |
 | [0863-sum-of-distances-in-tree](https://github.com/Astitva0809/Leetcode/tree/master/0863-sum-of-distances-in-tree) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Astitva0809/Leetcode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0943-sum-of-subarray-minimums](https://github.com/Astitva0809/Leetcode/tree/master/0943-sum-of-subarray-minimums) |
@@ -927,4 +929,8 @@ Leetcode solutions
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/Astitva0809/Leetcode/tree/master/0187-repeated-dna-sequences) |
+## Probability and Statistics
+|  |
+| ------- |
+| [0826-soup-servings](https://github.com/Astitva0809/Leetcode/tree/master/0826-soup-servings) |
 <!---LeetCode Topics End-->
