@@ -347,6 +347,7 @@ Leetcode solutions
 | [0670-maximum-swap](https://github.com/Astitva0809/Leetcode/tree/master/0670-maximum-swap) |
 | [0804-rotated-digits](https://github.com/Astitva0809/Leetcode/tree/master/0804-rotated-digits) |
 | [0826-soup-servings](https://github.com/Astitva0809/Leetcode/tree/master/0826-soup-servings) |
+| [0900-reordered-power-of-2](https://github.com/Astitva0809/Leetcode/tree/master/0900-reordered-power-of-2) |
 | [1033-broken-calculator](https://github.com/Astitva0809/Leetcode/tree/master/1033-broken-calculator) |
 | [1086-divisor-game](https://github.com/Astitva0809/Leetcode/tree/master/1086-divisor-game) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Astitva0809/Leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
@@ -404,6 +405,7 @@ Leetcode solutions
 | [0451-sort-characters-by-frequency](https://github.com/Astitva0809/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0525-contiguous-array](https://github.com/Astitva0809/Leetcode/tree/master/0525-contiguous-array) |
 | [0652-find-duplicate-subtrees](https://github.com/Astitva0809/Leetcode/tree/master/0652-find-duplicate-subtrees) |
+| [0900-reordered-power-of-2](https://github.com/Astitva0809/Leetcode/tree/master/0900-reordered-power-of-2) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Astitva0809/Leetcode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0940-fruit-into-baskets](https://github.com/Astitva0809/Leetcode/tree/master/0940-fruit-into-baskets) |
 | [0952-word-subsets](https://github.com/Astitva0809/Leetcode/tree/master/0952-word-subsets) |
@@ -450,6 +452,7 @@ Leetcode solutions
 | [0451-sort-characters-by-frequency](https://github.com/Astitva0809/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/Astitva0809/Leetcode/tree/master/0455-assign-cookies) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Astitva0809/Leetcode/tree/master/0780-max-chunks-to-make-sorted) |
+| [0900-reordered-power-of-2](https://github.com/Astitva0809/Leetcode/tree/master/0900-reordered-power-of-2) |
 | [0991-array-of-doubled-pairs](https://github.com/Astitva0809/Leetcode/tree/master/0991-array-of-doubled-pairs) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/Astitva0809/Leetcode/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Astitva0809/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -707,6 +710,7 @@ Leetcode solutions
 ## Enumeration
 |  |
 | ------- |
+| [0900-reordered-power-of-2](https://github.com/Astitva0809/Leetcode/tree/master/0900-reordered-power-of-2) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Astitva0809/Leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2202-sum-of-k-mirror-numbers](https://github.com/Astitva0809/Leetcode/tree/master/2202-sum-of-k-mirror-numbers) |
 | [2844-sum-of-squares-of-special-elements](https://github.com/Astitva0809/Leetcode/tree/master/2844-sum-of-squares-of-special-elements) |
@@ -721,6 +725,7 @@ Leetcode solutions
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Astitva0809/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/Astitva0809/Leetcode/tree/master/0451-sort-characters-by-frequency) |
+| [0900-reordered-power-of-2](https://github.com/Astitva0809/Leetcode/tree/master/0900-reordered-power-of-2) |
 | [1364-tuple-with-same-product](https://github.com/Astitva0809/Leetcode/tree/master/1364-tuple-with-same-product) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/Astitva0809/Leetcode/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1502-construct-k-palindrome-strings](https://github.com/Astitva0809/Leetcode/tree/master/1502-construct-k-palindrome-strings) |
