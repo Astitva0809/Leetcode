@@ -525,6 +525,7 @@ Leetcode solutions
 | [2554-minimum-total-distance-traveled](https://github.com/Astitva0809/Leetcode/tree/master/2554-minimum-total-distance-traveled) |
 | [2586-longest-square-streak-in-an-array](https://github.com/Astitva0809/Leetcode/tree/master/2586-longest-square-streak-in-an-array) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/Astitva0809/Leetcode/tree/master/2794-maximum-number-of-moves-in-a-grid) |
+| [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/Astitva0809/Leetcode/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Astitva0809/Leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/Astitva0809/Leetcode/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/Astitva0809/Leetcode/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
