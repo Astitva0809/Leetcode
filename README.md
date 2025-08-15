@@ -165,6 +165,7 @@ Leetcode solutions
 | [0078-subsets](https://github.com/Astitva0809/Leetcode/tree/master/0078-subsets) |
 | [0187-repeated-dna-sequences](https://github.com/Astitva0809/Leetcode/tree/master/0187-repeated-dna-sequences) |
 | [0231-power-of-two](https://github.com/Astitva0809/Leetcode/tree/master/0231-power-of-two) |
+| [0342-power-of-four](https://github.com/Astitva0809/Leetcode/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/Astitva0809/Leetcode/tree/master/0371-sum-of-two-integers) |
 | [0397-integer-replacement](https://github.com/Astitva0809/Leetcode/tree/master/0397-integer-replacement) |
 | [0800-letter-case-permutation](https://github.com/Astitva0809/Leetcode/tree/master/0800-letter-case-permutation) |
@@ -340,6 +341,7 @@ Leetcode solutions
 | [0050-powx-n](https://github.com/Astitva0809/Leetcode/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/Astitva0809/Leetcode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Astitva0809/Leetcode/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/Astitva0809/Leetcode/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/Astitva0809/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0371-sum-of-two-integers](https://github.com/Astitva0809/Leetcode/tree/master/0371-sum-of-two-integers) |
 | [0412-fizz-buzz](https://github.com/Astitva0809/Leetcode/tree/master/0412-fizz-buzz) |
@@ -378,6 +380,7 @@ Leetcode solutions
 | [0050-powx-n](https://github.com/Astitva0809/Leetcode/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/Astitva0809/Leetcode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Astitva0809/Leetcode/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/Astitva0809/Leetcode/tree/master/0342-power-of-four) |
 | [0486-predict-the-winner](https://github.com/Astitva0809/Leetcode/tree/master/0486-predict-the-winner) |
 | [1197-parsing-a-boolean-expression](https://github.com/Astitva0809/Leetcode/tree/master/1197-parsing-a-boolean-expression) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/Astitva0809/Leetcode/tree/master/1667-find-kth-bit-in-nth-binary-string) |
