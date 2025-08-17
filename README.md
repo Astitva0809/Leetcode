@@ -352,6 +352,7 @@ Leetcode solutions
 | [0670-maximum-swap](https://github.com/Astitva0809/Leetcode/tree/master/0670-maximum-swap) |
 | [0804-rotated-digits](https://github.com/Astitva0809/Leetcode/tree/master/0804-rotated-digits) |
 | [0826-soup-servings](https://github.com/Astitva0809/Leetcode/tree/master/0826-soup-servings) |
+| [0867-new-21-game](https://github.com/Astitva0809/Leetcode/tree/master/0867-new-21-game) |
 | [0900-reordered-power-of-2](https://github.com/Astitva0809/Leetcode/tree/master/0900-reordered-power-of-2) |
 | [1033-broken-calculator](https://github.com/Astitva0809/Leetcode/tree/master/1033-broken-calculator) |
 | [1086-divisor-game](https://github.com/Astitva0809/Leetcode/tree/master/1086-divisor-game) |
@@ -516,6 +517,7 @@ Leetcode solutions
 | [0804-rotated-digits](https://github.com/Astitva0809/Leetcode/tree/master/0804-rotated-digits) |
 | [0826-soup-servings](https://github.com/Astitva0809/Leetcode/tree/master/0826-soup-servings) |
 | [0863-sum-of-distances-in-tree](https://github.com/Astitva0809/Leetcode/tree/master/0863-sum-of-distances-in-tree) |
+| [0867-new-21-game](https://github.com/Astitva0809/Leetcode/tree/master/0867-new-21-game) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Astitva0809/Leetcode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0943-sum-of-subarray-minimums](https://github.com/Astitva0809/Leetcode/tree/master/0943-sum-of-subarray-minimums) |
 | [0954-maximum-sum-circular-subarray](https://github.com/Astitva0809/Leetcode/tree/master/0954-maximum-sum-circular-subarray) |
@@ -845,6 +847,7 @@ Leetcode solutions
 | [0239-sliding-window-maximum](https://github.com/Astitva0809/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0413-arithmetic-slices](https://github.com/Astitva0809/Leetcode/tree/master/0413-arithmetic-slices) |
 | [0424-longest-repeating-character-replacement](https://github.com/Astitva0809/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
+| [0867-new-21-game](https://github.com/Astitva0809/Leetcode/tree/master/0867-new-21-game) |
 | [0940-fruit-into-baskets](https://github.com/Astitva0809/Leetcode/tree/master/0940-fruit-into-baskets) |
 | [1046-max-consecutive-ones-iii](https://github.com/Astitva0809/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1321-get-equal-substrings-within-budget](https://github.com/Astitva0809/Leetcode/tree/master/1321-get-equal-substrings-within-budget) |
@@ -947,4 +950,5 @@ Leetcode solutions
 |  |
 | ------- |
 | [0826-soup-servings](https://github.com/Astitva0809/Leetcode/tree/master/0826-soup-servings) |
+| [0867-new-21-game](https://github.com/Astitva0809/Leetcode/tree/master/0867-new-21-game) |
 <!---LeetCode Topics End-->
