@@ -39,6 +39,7 @@ Leetcode solutions
 | [0494-target-sum](https://github.com/Astitva0809/Leetcode/tree/master/0494-target-sum) |
 | [0498-diagonal-traverse](https://github.com/Astitva0809/Leetcode/tree/master/0498-diagonal-traverse) |
 | [0525-contiguous-array](https://github.com/Astitva0809/Leetcode/tree/master/0525-contiguous-array) |
+| [0679-24-game](https://github.com/Astitva0809/Leetcode/tree/master/0679-24-game) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/Astitva0809/Leetcode/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Astitva0809/Leetcode/tree/master/0780-max-chunks-to-make-sorted) |
 | [0878-shifting-letters](https://github.com/Astitva0809/Leetcode/tree/master/0878-shifting-letters) |
@@ -155,6 +156,7 @@ Leetcode solutions
 | [0131-palindrome-partitioning](https://github.com/Astitva0809/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0257-binary-tree-paths](https://github.com/Astitva0809/Leetcode/tree/master/0257-binary-tree-paths) |
 | [0494-target-sum](https://github.com/Astitva0809/Leetcode/tree/master/0494-target-sum) |
+| [0679-24-game](https://github.com/Astitva0809/Leetcode/tree/master/0679-24-game) |
 | [0800-letter-case-permutation](https://github.com/Astitva0809/Leetcode/tree/master/0800-letter-case-permutation) |
 | [0813-all-paths-from-source-to-target](https://github.com/Astitva0809/Leetcode/tree/master/0813-all-paths-from-source-to-target) |
 | [2107-find-unique-binary-string](https://github.com/Astitva0809/Leetcode/tree/master/2107-find-unique-binary-string) |
@@ -350,6 +352,7 @@ Leetcode solutions
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Astitva0809/Leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0486-predict-the-winner](https://github.com/Astitva0809/Leetcode/tree/master/0486-predict-the-winner) |
 | [0670-maximum-swap](https://github.com/Astitva0809/Leetcode/tree/master/0670-maximum-swap) |
+| [0679-24-game](https://github.com/Astitva0809/Leetcode/tree/master/0679-24-game) |
 | [0804-rotated-digits](https://github.com/Astitva0809/Leetcode/tree/master/0804-rotated-digits) |
 | [0826-soup-servings](https://github.com/Astitva0809/Leetcode/tree/master/0826-soup-servings) |
 | [0867-new-21-game](https://github.com/Astitva0809/Leetcode/tree/master/0867-new-21-game) |
