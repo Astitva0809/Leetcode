@@ -6,6 +6,7 @@ Leetcode solutions
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Astitva0809/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/Astitva0809/Leetcode/tree/master/0011-container-with-most-water) |
 | [0046-permutations](https://github.com/Astitva0809/Leetcode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Astitva0809/Leetcode/tree/master/0047-permutations-ii) |
@@ -497,6 +498,7 @@ Leetcode solutions
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Astitva0809/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/Astitva0809/Leetcode/tree/master/0053-maximum-subarray) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Astitva0809/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0324-wiggle-sort-ii](https://github.com/Astitva0809/Leetcode/tree/master/0324-wiggle-sort-ii) |
@@ -563,6 +565,7 @@ Leetcode solutions
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Astitva0809/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Astitva0809/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0278-first-bad-version](https://github.com/Astitva0809/Leetcode/tree/master/0278-first-bad-version) |
 | [0367-valid-perfect-square](https://github.com/Astitva0809/Leetcode/tree/master/0367-valid-perfect-square) |
