@@ -127,6 +127,7 @@ Leetcode solutions
 | [2878-apply-operations-to-make-all-array-elements-equal-to-zero](https://github.com/Astitva0809/Leetcode/tree/master/2878-apply-operations-to-make-all-array-elements-equal-to-zero) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Astitva0809/Leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/Astitva0809/Leetcode/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/Astitva0809/Leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3291-find-if-array-can-be-sorted](https://github.com/Astitva0809/Leetcode/tree/master/3291-find-if-array-can-be-sorted) |
 | [3320-maximum-number-of-operations-with-the-same-score-i](https://github.com/Astitva0809/Leetcode/tree/master/3320-maximum-number-of-operations-with-the-same-score-i) |
 | [3321-type-of-triangle](https://github.com/Astitva0809/Leetcode/tree/master/3321-type-of-triangle) |
@@ -452,6 +453,7 @@ Leetcode solutions
 | [2677-cousins-in-binary-tree-ii](https://github.com/Astitva0809/Leetcode/tree/master/2677-cousins-in-binary-tree-ii) |
 | [2685-first-completely-painted-row-or-column](https://github.com/Astitva0809/Leetcode/tree/master/2685-first-completely-painted-row-or-column) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/Astitva0809/Leetcode/tree/master/2856-count-complete-subarrays-in-an-array) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/Astitva0809/Leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/Astitva0809/Leetcode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Astitva0809/Leetcode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3594-identify-the-largest-outlier-in-an-array](https://github.com/Astitva0809/Leetcode/tree/master/3594-identify-the-largest-outlier-in-an-array) |
@@ -758,6 +760,7 @@ Leetcode solutions
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/Astitva0809/Leetcode/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [1983-maximum-population-year](https://github.com/Astitva0809/Leetcode/tree/master/1983-maximum-population-year) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Astitva0809/Leetcode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/Astitva0809/Leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/Astitva0809/Leetcode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3594-identify-the-largest-outlier-in-an-array](https://github.com/Astitva0809/Leetcode/tree/master/3594-identify-the-largest-outlier-in-an-array) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Astitva0809/Leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
