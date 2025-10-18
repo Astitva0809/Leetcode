@@ -286,6 +286,7 @@ Leetcode solutions
 | [3871-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/Astitva0809/Leetcode/tree/master/3871-minimum-deletions-for-at-most-k-distinct-characters) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Astitva0809/Leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 | [3934-coupon-code-validator](https://github.com/Astitva0809/Leetcode/tree/master/3934-coupon-code-validator) |
+| [4052-equal-score-substrings](https://github.com/Astitva0809/Leetcode/tree/master/4052-equal-score-substrings) |
 ## Greedy
 |  |
 | ------- |
@@ -794,6 +795,7 @@ Leetcode solutions
 | [3644-minimum-positive-sum-subarray](https://github.com/Astitva0809/Leetcode/tree/master/3644-minimum-positive-sum-subarray) |
 | [3731-sum-of-variable-length-subarrays](https://github.com/Astitva0809/Leetcode/tree/master/3731-sum-of-variable-length-subarrays) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/Astitva0809/Leetcode/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
+| [4052-equal-score-substrings](https://github.com/Astitva0809/Leetcode/tree/master/4052-equal-score-substrings) |
 ## Breadth-First Search
 |  |
 | ------- |
