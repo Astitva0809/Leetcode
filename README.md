@@ -150,6 +150,7 @@ Leetcode solutions
 | [3790-fruits-into-baskets-ii](https://github.com/Astitva0809/Leetcode/tree/master/3790-fruits-into-baskets-ii) |
 | [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Astitva0809/Leetcode/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3934-coupon-code-validator](https://github.com/Astitva0809/Leetcode/tree/master/3934-coupon-code-validator) |
+| [4003-longest-fibonacci-subarray](https://github.com/Astitva0809/Leetcode/tree/master/4003-longest-fibonacci-subarray) |
 ## Backtracking
 |  |
 | ------- |
