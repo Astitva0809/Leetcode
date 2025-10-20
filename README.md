@@ -151,6 +151,7 @@ Leetcode solutions
 | [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Astitva0809/Leetcode/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3934-coupon-code-validator](https://github.com/Astitva0809/Leetcode/tree/master/3934-coupon-code-validator) |
 | [4003-longest-fibonacci-subarray](https://github.com/Astitva0809/Leetcode/tree/master/4003-longest-fibonacci-subarray) |
+| [4033-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Astitva0809/Leetcode/tree/master/4033-longest-subsequence-with-non-zero-bitwise-xor) |
 | [4058-compute-alternating-sum](https://github.com/Astitva0809/Leetcode/tree/master/4058-compute-alternating-sum) |
 | [4068-sum-of-elements-with-frequency-divisible-by-k](https://github.com/Astitva0809/Leetcode/tree/master/4068-sum-of-elements-with-frequency-divisible-by-k) |
 ## Backtracking
@@ -195,6 +196,7 @@ Leetcode solutions
 | [3394-minimum-array-end](https://github.com/Astitva0809/Leetcode/tree/master/3394-minimum-array-end) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/Astitva0809/Leetcode/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/Astitva0809/Leetcode/tree/master/3676-smallest-number-with-all-set-bits) |
+| [4033-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Astitva0809/Leetcode/tree/master/4033-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Two Pointers
 |  |
 | ------- |
