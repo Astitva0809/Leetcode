@@ -151,6 +151,7 @@ Leetcode solutions
 | [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Astitva0809/Leetcode/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3934-coupon-code-validator](https://github.com/Astitva0809/Leetcode/tree/master/3934-coupon-code-validator) |
 | [4003-longest-fibonacci-subarray](https://github.com/Astitva0809/Leetcode/tree/master/4003-longest-fibonacci-subarray) |
+| [4015-split-array-with-minimum-difference](https://github.com/Astitva0809/Leetcode/tree/master/4015-split-array-with-minimum-difference) |
 | [4033-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Astitva0809/Leetcode/tree/master/4033-longest-subsequence-with-non-zero-bitwise-xor) |
 | [4039-compute-decimal-representation](https://github.com/Astitva0809/Leetcode/tree/master/4039-compute-decimal-representation) |
 | [4058-compute-alternating-sum](https://github.com/Astitva0809/Leetcode/tree/master/4058-compute-alternating-sum) |
@@ -805,6 +806,7 @@ Leetcode solutions
 | [3644-minimum-positive-sum-subarray](https://github.com/Astitva0809/Leetcode/tree/master/3644-minimum-positive-sum-subarray) |
 | [3731-sum-of-variable-length-subarrays](https://github.com/Astitva0809/Leetcode/tree/master/3731-sum-of-variable-length-subarrays) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/Astitva0809/Leetcode/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
+| [4015-split-array-with-minimum-difference](https://github.com/Astitva0809/Leetcode/tree/master/4015-split-array-with-minimum-difference) |
 | [4052-equal-score-substrings](https://github.com/Astitva0809/Leetcode/tree/master/4052-equal-score-substrings) |
 ## Breadth-First Search
 |  |
