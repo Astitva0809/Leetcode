@@ -152,6 +152,7 @@ Leetcode solutions
 | [3934-coupon-code-validator](https://github.com/Astitva0809/Leetcode/tree/master/3934-coupon-code-validator) |
 | [4003-longest-fibonacci-subarray](https://github.com/Astitva0809/Leetcode/tree/master/4003-longest-fibonacci-subarray) |
 | [4033-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Astitva0809/Leetcode/tree/master/4033-longest-subsequence-with-non-zero-bitwise-xor) |
+| [4039-compute-decimal-representation](https://github.com/Astitva0809/Leetcode/tree/master/4039-compute-decimal-representation) |
 | [4058-compute-alternating-sum](https://github.com/Astitva0809/Leetcode/tree/master/4058-compute-alternating-sum) |
 | [4068-sum-of-elements-with-frequency-divisible-by-k](https://github.com/Astitva0809/Leetcode/tree/master/4068-sum-of-elements-with-frequency-divisible-by-k) |
 ## Backtracking
@@ -391,6 +392,7 @@ Leetcode solutions
 | [3830-find-closest-person](https://github.com/Astitva0809/Leetcode/tree/master/3830-find-closest-person) |
 | [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Astitva0809/Leetcode/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3859-maximum-product-of-two-digits](https://github.com/Astitva0809/Leetcode/tree/master/3859-maximum-product-of-two-digits) |
+| [4039-compute-decimal-representation](https://github.com/Astitva0809/Leetcode/tree/master/4039-compute-decimal-representation) |
 ## Recursion
 |  |
 | ------- |
