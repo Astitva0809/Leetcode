@@ -151,6 +151,7 @@ Leetcode solutions
 | [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Astitva0809/Leetcode/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3934-coupon-code-validator](https://github.com/Astitva0809/Leetcode/tree/master/3934-coupon-code-validator) |
 | [4003-longest-fibonacci-subarray](https://github.com/Astitva0809/Leetcode/tree/master/4003-longest-fibonacci-subarray) |
+| [4058-compute-alternating-sum](https://github.com/Astitva0809/Leetcode/tree/master/4058-compute-alternating-sum) |
 | [4068-sum-of-elements-with-frequency-divisible-by-k](https://github.com/Astitva0809/Leetcode/tree/master/4068-sum-of-elements-with-frequency-divisible-by-k) |
 ## Backtracking
 |  |
@@ -573,6 +574,7 @@ Leetcode solutions
 | [3320-maximum-number-of-operations-with-the-same-score-i](https://github.com/Astitva0809/Leetcode/tree/master/3320-maximum-number-of-operations-with-the-same-score-i) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Astitva0809/Leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3790-fruits-into-baskets-ii](https://github.com/Astitva0809/Leetcode/tree/master/3790-fruits-into-baskets-ii) |
+| [4058-compute-alternating-sum](https://github.com/Astitva0809/Leetcode/tree/master/4058-compute-alternating-sum) |
 ## Binary Search
 |  |
 | ------- |
