@@ -151,6 +151,7 @@ Leetcode solutions
 | [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Astitva0809/Leetcode/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3934-coupon-code-validator](https://github.com/Astitva0809/Leetcode/tree/master/3934-coupon-code-validator) |
 | [4003-longest-fibonacci-subarray](https://github.com/Astitva0809/Leetcode/tree/master/4003-longest-fibonacci-subarray) |
+| [4009-bitwise-or-of-even-numbers-in-an-array](https://github.com/Astitva0809/Leetcode/tree/master/4009-bitwise-or-of-even-numbers-in-an-array) |
 | [4015-split-array-with-minimum-difference](https://github.com/Astitva0809/Leetcode/tree/master/4015-split-array-with-minimum-difference) |
 | [4033-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Astitva0809/Leetcode/tree/master/4033-longest-subsequence-with-non-zero-bitwise-xor) |
 | [4039-compute-decimal-representation](https://github.com/Astitva0809/Leetcode/tree/master/4039-compute-decimal-representation) |
@@ -198,6 +199,7 @@ Leetcode solutions
 | [3394-minimum-array-end](https://github.com/Astitva0809/Leetcode/tree/master/3394-minimum-array-end) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/Astitva0809/Leetcode/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/Astitva0809/Leetcode/tree/master/3676-smallest-number-with-all-set-bits) |
+| [4009-bitwise-or-of-even-numbers-in-an-array](https://github.com/Astitva0809/Leetcode/tree/master/4009-bitwise-or-of-even-numbers-in-an-array) |
 | [4033-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Astitva0809/Leetcode/tree/master/4033-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Two Pointers
 |  |
@@ -579,6 +581,7 @@ Leetcode solutions
 | [3320-maximum-number-of-operations-with-the-same-score-i](https://github.com/Astitva0809/Leetcode/tree/master/3320-maximum-number-of-operations-with-the-same-score-i) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Astitva0809/Leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3790-fruits-into-baskets-ii](https://github.com/Astitva0809/Leetcode/tree/master/3790-fruits-into-baskets-ii) |
+| [4009-bitwise-or-of-even-numbers-in-an-array](https://github.com/Astitva0809/Leetcode/tree/master/4009-bitwise-or-of-even-numbers-in-an-array) |
 | [4058-compute-alternating-sum](https://github.com/Astitva0809/Leetcode/tree/master/4058-compute-alternating-sum) |
 ## Binary Search
 |  |
