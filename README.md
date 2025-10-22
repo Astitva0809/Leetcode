@@ -139,6 +139,7 @@ Leetcode solutions
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/Astitva0809/Leetcode/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Astitva0809/Leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3594-identify-the-largest-outlier-in-an-array](https://github.com/Astitva0809/Leetcode/tree/master/3594-identify-the-largest-outlier-in-an-array) |
+| [3612-adjacent-increasing-subarrays-detection-i](https://github.com/Astitva0809/Leetcode/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
 | [3632-button-with-longest-push-time](https://github.com/Astitva0809/Leetcode/tree/master/3632-button-with-longest-push-time) |
 | [3644-minimum-positive-sum-subarray](https://github.com/Astitva0809/Leetcode/tree/master/3644-minimum-positive-sum-subarray) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/Astitva0809/Leetcode/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
