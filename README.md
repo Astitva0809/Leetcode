@@ -140,6 +140,7 @@ Leetcode solutions
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Astitva0809/Leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3594-identify-the-largest-outlier-in-an-array](https://github.com/Astitva0809/Leetcode/tree/master/3594-identify-the-largest-outlier-in-an-array) |
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/Astitva0809/Leetcode/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
+| [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/Astitva0809/Leetcode/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 | [3632-button-with-longest-push-time](https://github.com/Astitva0809/Leetcode/tree/master/3632-button-with-longest-push-time) |
 | [3644-minimum-positive-sum-subarray](https://github.com/Astitva0809/Leetcode/tree/master/3644-minimum-positive-sum-subarray) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/Astitva0809/Leetcode/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
@@ -612,6 +613,7 @@ Leetcode solutions
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Astitva0809/Leetcode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2716-prime-subtraction-operation](https://github.com/Astitva0809/Leetcode/tree/master/2716-prime-subtraction-operation) |
 | [3427-special-array-ii](https://github.com/Astitva0809/Leetcode/tree/master/3427-special-array-ii) |
+| [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/Astitva0809/Leetcode/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 | [3790-fruits-into-baskets-ii](https://github.com/Astitva0809/Leetcode/tree/master/3790-fruits-into-baskets-ii) |
 ## Stack
 |  |
