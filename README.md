@@ -176,6 +176,7 @@ Leetcode solutions
 | [0813-all-paths-from-source-to-target](https://github.com/Astitva0809/Leetcode/tree/master/0813-all-paths-from-source-to-target) |
 | [2107-find-unique-binary-string](https://github.com/Astitva0809/Leetcode/tree/master/2107-find-unique-binary-string) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Astitva0809/Leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+| [2174-next-greater-numerically-balanced-number](https://github.com/Astitva0809/Leetcode/tree/master/2174-next-greater-numerically-balanced-number) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -381,6 +382,7 @@ Leetcode solutions
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Astitva0809/Leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1448-maximum-69-number](https://github.com/Astitva0809/Leetcode/tree/master/1448-maximum-69-number) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/Astitva0809/Leetcode/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
+| [2174-next-greater-numerically-balanced-number](https://github.com/Astitva0809/Leetcode/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2202-sum-of-k-mirror-numbers](https://github.com/Astitva0809/Leetcode/tree/master/2202-sum-of-k-mirror-numbers) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/Astitva0809/Leetcode/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2491-smallest-even-multiple](https://github.com/Astitva0809/Leetcode/tree/master/2491-smallest-even-multiple) |
@@ -458,6 +460,7 @@ Leetcode solutions
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Astitva0809/Leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2107-find-unique-binary-string](https://github.com/Astitva0809/Leetcode/tree/master/2107-find-unique-binary-string) |
 | [2117-find-original-array-from-doubled-array](https://github.com/Astitva0809/Leetcode/tree/master/2117-find-original-array-from-doubled-array) |
+| [2174-next-greater-numerically-balanced-number](https://github.com/Astitva0809/Leetcode/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Astitva0809/Leetcode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Astitva0809/Leetcode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2479-meeting-rooms-iii](https://github.com/Astitva0809/Leetcode/tree/master/2479-meeting-rooms-iii) |
@@ -759,6 +762,7 @@ Leetcode solutions
 | ------- |
 | [0900-reordered-power-of-2](https://github.com/Astitva0809/Leetcode/tree/master/0900-reordered-power-of-2) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Astitva0809/Leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+| [2174-next-greater-numerically-balanced-number](https://github.com/Astitva0809/Leetcode/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2202-sum-of-k-mirror-numbers](https://github.com/Astitva0809/Leetcode/tree/master/2202-sum-of-k-mirror-numbers) |
 | [2844-sum-of-squares-of-special-elements](https://github.com/Astitva0809/Leetcode/tree/master/2844-sum-of-squares-of-special-elements) |
 | [2873-prime-pairs-with-target-sum](https://github.com/Astitva0809/Leetcode/tree/master/2873-prime-pairs-with-target-sum) |
@@ -779,6 +783,7 @@ Leetcode solutions
 | [1510-find-lucky-integer-in-an-array](https://github.com/Astitva0809/Leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/Astitva0809/Leetcode/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [1983-maximum-population-year](https://github.com/Astitva0809/Leetcode/tree/master/1983-maximum-population-year) |
+| [2174-next-greater-numerically-balanced-number](https://github.com/Astitva0809/Leetcode/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Astitva0809/Leetcode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Astitva0809/Leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/Astitva0809/Leetcode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
